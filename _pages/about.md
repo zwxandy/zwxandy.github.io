@@ -24,7 +24,8 @@ I am currently a second-year master student at Institute for Artificial Intellig
 - *2019.09-2023.06*, University of Electronic Science and Technology of China (UESTC)
 
 # 🔥 News
-
+- Welcome to my newly updated homepage! I finally change my homepage template today (lazy me 😮‍💨)!
+- 🥺 I also hope there will be some good news in the near future
 
 # 📝 Publications 
 - H<sup>2</sup>EAL: Hybrid-Bonding Architecture with Hybrid Sparse Attention for Efficient Long-Context LLM Inference \
@@ -83,11 +84,16 @@ I am currently a second-year master student at Institute for Artificial Intellig
 - *2021* China Collegiate Computing Contest, **National First Prize (the 1st Place)**
 - *2021* "Zhong Gong Cup" Sichuan Collegiate Computer Work Competition, **Provincial Special Prize**
 
-# 💬 Invited Talks/Activities
+# 💬 Invited Talks and Activities
 -  Record and launch the course about "Privacy-Preserving Machine Learning" with Ant Group [[Link](https://mp.weixin.qq.com/s/bRArxUSOPhXMzgrYvKH61w?poc_token=HGpRI2ijFv-TLpPwDOCH4lqhNrabIKX1RSonfT6O)]
 
 # 💻 Internships
-
+- Currently at the interview stage
 
 # 📚 Academic Services
 - Serving as a reviewer of NeurIPS 2025
+
+# 💡 My Life
+I really like 🎤singing, 🎸guitar, 🏂skiing, 🏸badminton, and various novel and interesting things. Welcome to discuss these interests and hobbies with me!
+
+![image]()
