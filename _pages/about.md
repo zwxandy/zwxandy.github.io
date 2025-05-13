@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a second-year master student at Institute for Artificial Intelligence, Peking University (PKU), supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm). Pior to that, I received the B.S. Degree from University of Electronic Science and Technology of China (UESTC) in 2023. My current research interests primarily focus on the efficient AI algorithm/system, multimodal LLM, and LLM reasoning.
 
-Currently, I am actively seeking Ph.D. opportunities for 2026 Fall. If you are interested in me, please contact me!
+🌟 Currently, I am actively seeking Ph.D. opportunities for 2026 Fall. If you are interested in me, please contact me! My EN and CN resumes are available here: [[EN]()] [[CN]()]
 
 
 # 📖 Educations
