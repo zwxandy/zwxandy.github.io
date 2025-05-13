@@ -96,4 +96,4 @@ I am currently a second-year master student at Institute for Artificial Intellig
 # 💡 My Life
 I really like 🎤singing, 🎸guitar, 🏂skiing, 🏸badminton, and various novel and interesting things. Welcome to discuss these interests and hobbies with me!
 
-![image]()
+<p align="center"><img src="https://github.com/zwxandy/zwxandy.github.io/blob/main/images/guitar.png" width="50%"></p>
