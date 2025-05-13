@@ -24,7 +24,7 @@ I am currently a second-year master student at Institute for Artificial Intellig
 - *2019.09-2023.06*, University of Electronic Science and Technology of China (UESTC)
 
 # 🔥 News
-- Welcome to my newly updated homepage! I finally change my homepage template today (lazy me 😮‍💨)!
+- 🎉 Welcome to my newly updated homepage! I finally change my homepage template today (lazy me 😮‍💨)!
 - 🥺 I also hope there will be some good news in the near future
 
 # 📝 Publications 
