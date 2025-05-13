@@ -19,14 +19,14 @@ redirect_from:
 
 I am currently a second-year master student at Institute for Artificial Intelligence, Peking University (PKU), supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm). Pior to that, I received the B.S. Degree from University of Electronic Science and Technology of China (UESTC) in 2023.
 
+# 📖 Educations
+- *2023.09-2026.06*, Peking University (PKU)
+- *2019.09-2023.06*, University of Electronic Science and Technology of China (UESTC)
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 
 # 📝 Publications 
-
 - H<sup>2</sup>EAL: Hybrid-Bonding Architecture with Hybrid Sparse Attention for Efficient Long-Context LLM Inference \
   Zizhuo Fu, Xiaotian Guo, **Wenxuan Zeng**, Shuzhang Zhong, Yadong Zhang, Peiyu Chen, Runsheng Wang, Le Ye, Meng Li \
   Under Review
@@ -68,16 +68,26 @@ I am currently a second-year master student at Institute for Artificial Intellig
   KDD 2022, [[Paper](https://cse.hkust.edu.hk/~kaichen/papers/ipgeo-kdd22.pdf)]
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* Third Prize Scholarship at Peking University
+- *2024* Merit Student Scholarship at Peking University
+- *2023* Outstanding Graduate Student and Honors Research Certificate at UESTC
+- *2020-2022* Outstanding Student Scholarship and "Innovation and Entrepreneurship Training Plan" at UESTC
+- *2022* Special Prize of “Tencent” Scholarship (3 Places at UESTC in Total)
+- *2021* First Prize of “Shi Qiang” Scholarship (5 Places at UESTC in Total)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🏆 Competition Awards
+- *2024* Badminton Competition of Institute for Artificial Intelligence at Peking University, **The 2nd Prize**
+- *2023* Annual Symposium and Tech Day of Institute for Artificial Intelligence at Peking University, **Most Popular Award**
+- *2023* China Collegiate Computing Contest, **National Special Prize (the 1st Place)**
+- *2022* "Pan-Pearl River Delta" Collegiate Computer Work Competition, **National Third Prize**
+- *2021* China Collegiate Computing Contest, **National First Prize (the 1st Place)**
+- *2021* "Zhong Gong Cup" Sichuan Collegiate Computer Work Competition, **Provincial Special Prize**
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Invited Talks/Activities
+-  Record and launch the course about "Privacy-Preserving Machine Learning" with Ant Group [[Link](https://mp.weixin.qq.com/s/bRArxUSOPhXMzgrYvKH61w?poc_token=HGpRI2ijFv-TLpPwDOCH4lqhNrabIKX1RSonfT6O)]
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+
+# 📚 Academic Services
+- Serving as a reviewer of NeurIPS 2025
