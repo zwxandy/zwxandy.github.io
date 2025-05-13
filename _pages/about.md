@@ -94,10 +94,10 @@ I am currently a second-year master student at Institute for Artificial Intellig
 
 # 💻 Internships
 - Currently at the interview stage
-- *2022.6-present*, Institute for Artificial Intelligence, Peking University (supervised by Prof. Meng Li and Prof. Runsheng Wang)
-- *2022.4-2022.7*, Knowledge Works Research Laboratory, Fudan University (supervised by Prof. Yanghua Xiao)
-- *2021.6-2022.6*, Sichuan Key Laboratory of Network and Data Security, UESTC (supervised by Prof. Fan Zhou)
-- *2021.8-2022.5*, Communication and Information Security Laboratory, Peking University (supervised by Prof. Yuesheng Zhu)
+- *2022.6-present*, Institute for Artificial Intelligence, Peking University (supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm))
+- *2022.4-2022.7*, Knowledge Works Research Laboratory, Fudan University (supervised by [Prof. Yanghua Xiao](http://kw.fudan.edu.cn/people/xiaoyanghua/))
+- *2021.6-2022.6*, Sichuan Key Laboratory of Network and Data Security, UESTC (supervised by [Prof. Fan Zhou](https://sise.uestc.edu.cn/info/1035/9375.htm))
+- *2021.8-2022.5*, Communication and Information Security Laboratory, Peking University (supervised by [Prof. Yuesheng Zhu](https://www.ece.pku.edu.cn/en/info/1057/1175.htm))
 
 # 📚 Academic Services
 - Serving as a reviewer of NeurIPS 2025
