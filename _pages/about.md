@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year master student at Institute for Artificial Intelligence, Peking University (PKU), supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm). Pior to that, I received the B.S. Degree from University of Electronic Science and Technology of China (UESTC) in 2023. My current research interests primarily focus on the efficient AI algorithm/system, multimodal LLM, and LLM reasoning.
 
-🌟 Currently, I am actively seeking Ph.D. opportunities for 2026 Fall. If you are interested in me, please contact me! My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1olqLW8GYoEe4OQcmY0q6JCK3jhF7YogQ/view?usp=drive_link)] [[CN](https://drive.google.com/file/d/1xTVt7H-9TvQRSBAIHhugVtbEfy-AGBZS/view?usp=drive_link)]
+I am currently a second-year master student at Institute for Artificial Intelligence, Peking University (PKU), supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm). Pior to that, I received the B.S. Degree from University of Electronic Science and Technology of China (UESTC) in 2023, supervised by [Prof. Fan Zhou](https://sise.uestc.edu.cn/info/1035/9375.htm). My current research interests primarily focus on the efficient AI algorithm/system, multimodal LLM, and LLM reasoning.
+
+**🌟 Currently, I am actively seeking Ph.D. opportunities for 2026 Fall. If you are interested in me, please contact me! My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1olqLW8GYoEe4OQcmY0q6JCK3jhF7YogQ/view?usp=drive_link)] [[CN](https://drive.google.com/file/d/1xTVt7H-9TvQRSBAIHhugVtbEfy-AGBZS/view?usp=drive_link)]**
 
 
 # 📖 Educations
@@ -36,7 +37,7 @@ I am currently a second-year master student at Institute for Artificial Intellig
   Under Review
 - UniCAIM: A Unified CAM/CIM Architecture with Static-Dynamic KV Cache Pruning for Efficient Long-Context LLM Inference \
   Weikai Xu\*, **Wenxuan Zeng\***, Qianqian Huang, Meng Li, Ru Huang \
-  DAC 2025 [[Paper](https://arxiv.org/pdf/2504.07479)]
+  DAC 2025, [[Paper](https://arxiv.org/pdf/2504.07479)]
 - OptiPrime: Efficient Private Inference at ImageNet Scale \
   Jiangrui Yu, Ye Yu, Si Chen, **Wenxuan Zeng**, Junfeng Fan, Runsheng Wang, Ru Huang, Meng Li \
   Work in Progress
@@ -93,10 +94,10 @@ I am currently a second-year master student at Institute for Artificial Intellig
 
 # 💻 Internships
 - Currently at the interview stage
-- *2022.6-present* Institute for Artificial Intelligence, Peking University (supervised by Prof. Meng Li and Prof. Runsheng Wang)
-- *2022.4-2022.7* Knowledge Works Research Laboratory, Fudan University (supervised by Prof. Yanghua Xiao)
-- *2021.6-2022.6* Sichuan Key Laboratory of Network and Data Security, UESTC (supervised by Prof. Fan Zhou)
-- *2021.8-2022.5* Communication and Information Security Laboratory, Peking University (supervised by Prof. Yuesheng Zhu)
+- *2022.6-present*, Institute for Artificial Intelligence, Peking University (supervised by Prof. Meng Li and Prof. Runsheng Wang)
+- *2022.4-2022.7*, Knowledge Works Research Laboratory, Fudan University (supervised by Prof. Yanghua Xiao)
+- *2021.6-2022.6*, Sichuan Key Laboratory of Network and Data Security, UESTC (supervised by Prof. Fan Zhou)
+- *2021.8-2022.5*, Communication and Information Security Laboratory, Peking University (supervised by Prof. Yuesheng Zhu)
 
 # 📚 Academic Services
 - Serving as a reviewer of NeurIPS 2025
