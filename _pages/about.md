@@ -107,4 +107,6 @@ I really like 🎤singing, 🎸guitar, 🏂skiing, 🏸badminton, and various no
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Guitar</div><img src='images/guitar.png' alt="sym" width="80%"></div></div>
 
+\
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Skiing</div><img src='images/skiing' alt="sym" width="80%"></div></div>
