@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year master student at Institute for Artificial Intelligence, Peking University (PKU), supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm). Pior to that, I received the B.S. Degree from University of Electronic Science and Technology of China (UESTC) in 2023.
+I am currently a second-year master student at Institute for Artificial Intelligence, Peking University (PKU), supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm). Pior to that, I received the B.S. Degree from University of Electronic Science and Technology of China (UESTC) in 2023. My current research interests primarily focus on the efficient AI algorithm/system, multimodal LLM, and LLM reasoning.
 
 # 📖 Educations
 - *2023.09-2026.06*, Peking University (PKU)
