@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
-I am currently a second-year master student at Institute for Artificial Intelligence, Peking University (PKU), supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm). Pior to that, I received the B.S. Degree from University of Electronic Science and Technology of China (UESTC) in 2023, supervised by [Prof. Fan Zhou](https://sise.uestc.edu.cn/info/1035/9375.htm). My current research interests primarily focus on the efficient AI algorithm/system, multimodal LLM, and LLM reasoning.
+I am currently a second-year master student at Institute for Artificial Intelligence, Peking University (PKU), supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm). Pior to that, I received the B.S. degree from University of Electronic Science and Technology of China (UESTC) in 2023, supervised by [Prof. Fan Zhou](https://sise.uestc.edu.cn/info/1035/9375.htm). My current research interests primarily focus on the efficient AI algorithm/system, multimodal LLM, and LLM reasoning.
 
 **🌟 <ins>Currently, I am actively seeking Ph.D. opportunities for 2026 Fall. If you are interested in me, please contact me! My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1olqLW8GYoEe4OQcmY0q6JCK3jhF7YogQ/view?usp=drive_link)] [[CN](https://drive.google.com/file/d/1xTVt7H-9TvQRSBAIHhugVtbEfy-AGBZS/view?usp=drive_link)]</ins>**
 
@@ -27,9 +26,11 @@ I am currently a second-year master student at Institute for Artificial Intellig
 - *2023.09-2026.06*, Peking University (PKU)
 - *2019.09-2023.06*, University of Electronic Science and Technology of China (UESTC)
 
+
 # 🔥 News
 - 🎉 Welcome to my newly updated homepage! I finally change my homepage template today (lazy me 😮‍💨)!
 - 🥺 I also hope there will be some good news in the near future
+
 
 # 📝 Publications 
 - H<sup>2</sup>EAL: Hybrid-Bonding Architecture with Hybrid Sparse Attention for Efficient Long-Context LLM Inference \
@@ -72,6 +73,7 @@ I am currently a second-year master student at Institute for Artificial Intellig
   Zhiyuan Wang\*, Fan Zhou\*, **Wenxuan Zeng\***, Goce Trajcevski, Chunjing Xiao, Yong Wang, Kai Chen \
   KDD 2022, [[Paper](https://cse.hkust.edu.hk/~kaichen/papers/ipgeo-kdd22.pdf)]
 
+
 # 🎖 Honors and Awards
 - *2024* Third Prize Scholarship at Peking University
 - *2024* Merit Student Scholarship at Peking University
@@ -79,6 +81,7 @@ I am currently a second-year master student at Institute for Artificial Intellig
 - *2020-2022* Outstanding Student Scholarship and "Innovation and Entrepreneurship Training Plan" at UESTC
 - *2022* Special Prize of “Tencent” Scholarship (3 Places at UESTC in Total)
 - *2021* First Prize of “Shi Qiang” Scholarship (5 Places at UESTC in Total)
+
 
 # 🏆 Competition Awards
 - *2024* Badminton Competition of Institute for Artificial Intelligence at Peking University, **The 2nd Prize**
