@@ -89,6 +89,10 @@ I am currently a second-year master student at Institute for Artificial Intellig
 
 # 💻 Internships
 - Currently at the interview stage
+- *2022.6-present* Institute for Artificial Intelligence, Peking University (supervised by Prof. Meng Li and Prof. Runsheng Wang)
+- *2022.4-2022.7* Knowledge Works Research Laboratory, Fudan University (supervised by Prof. Yanghua Xiao)
+- *2021.6-2022.6* Sichuan Key Laboratory of Network and Data Security, UESTC (supervised by Prof. Fan Zhou)
+- *2021.8-2022.5* Communication and Information Security Laboratory, Peking University (supervised by Prof. Yuesheng Zhu)
 
 # 📚 Academic Services
 - Serving as a reviewer of NeurIPS 2025
@@ -96,4 +100,4 @@ I am currently a second-year master student at Institute for Artificial Intellig
 # 💡 My Life
 I really like 🎤singing, 🎸guitar, 🏂skiing, 🏸badminton, and various novel and interesting things. Welcome to discuss these interests and hobbies with me!
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">test</div><img src='images/guitar.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Guitar</div><img src='images/guitar.png' alt="sym" width="80%"></div></div>
