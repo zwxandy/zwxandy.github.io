@@ -3,12 +3,12 @@
     "short_name": "",
     "icons": [
        {
-          "src": "/cluster.png",
+          "src": "/cluster1.png",
           "sizes": "192x192",
           "type": "image/png"
        },
        {
-        "src": "/cluster.png",
+        "src": "/cluster1.png",
         "sizes": "512x512",
         "type": "image/png"
         }
