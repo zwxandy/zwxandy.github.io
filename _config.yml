@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Wenxuan Zeng"
-description              : "Peking Unversity"
+title                    : "Wenxuan Zeng (曾文轩)"
+description              : "Institute for AI@Peking Unversity"
 repository               : "zwxandy/zwxandy.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wenxuan Zeng"
   avatar           : "images/self.png"
-  bio              : "Peking University"
+  bio              : ""
   location         : "Beijing, China"
   employer         :
   pubmed           : 
