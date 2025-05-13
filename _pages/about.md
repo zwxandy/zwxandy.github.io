@@ -32,7 +32,7 @@ I am currently a second-year master student at Institute for Artificial Intellig
   Zizhuo Fu, Xiaotian Guo, **Wenxuan Zeng**, Shuzhang Zhong, Yadong Zhang, Peiyu Chen, Runsheng Wang, Le Ye, Meng Li \
   Under Review
 - UniCAIM: A Unified CAM/CIM Architecture with Static-Dynamic KV Cache Pruning for Efficient Long-Context LLM Inference \
-  Weikai Xu*, **Wenxuan Zeng***, Qianqian Huang, Meng Li, Ru Huang \
+  Weikai Xu\*, **Wenxuan Zeng\***, Qianqian Huang, Meng Li, Ru Huang \
   DAC 2025 [[Paper](https://arxiv.org/pdf/2504.07479)]
 - OptiPrime: Efficient Private Inference at ImageNet Scale \
   Jiangrui Yu, Ye Yu, Si Chen, **Wenxuan Zeng**, Junfeng Fan, Runsheng Wang, Ru Huang, Meng Li \
@@ -65,7 +65,7 @@ I am currently a second-year master student at Institute for Artificial Intellig
   Jiangjie Chen*, Rui Xu*, Wenxuan Zeng, Changzhi Sun†, Lei Li, Yanghua Xiao \
   AAAI 2023, [[Paper](https://arxiv.org/pdf/2211.12130)]
 - Connecting the Hosts: Street-Level IP Geolocation with Graph Neural Networks \
-  Zhiyuan Wang*, Fan Zhou*, **Wenxuan Zeng***, Goce Trajcevski, Chunjing Xiao, Yong Wang, Kai Chen \
+  Zhiyuan Wang\*, Fan Zhou\*, **Wenxuan Zeng\***, Goce Trajcevski, Chunjing Xiao, Yong Wang, Kai Chen \
   KDD 2022, [[Paper](https://cse.hkust.edu.hk/~kaichen/papers/ipgeo-kdd22.pdf)]
 
 # 🎖 Honors and Awards
@@ -83,6 +83,7 @@ I am currently a second-year master student at Institute for Artificial Intellig
 - *2022* "Pan-Pearl River Delta" Collegiate Computer Work Competition, **National Third Prize**
 - *2021* China Collegiate Computing Contest, **National First Prize (the 1st Place)**
 - *2021* "Zhong Gong Cup" Sichuan Collegiate Computer Work Competition, **Provincial Special Prize**
+
 
 # 💬 Invited Talks and Activities
 -  Record and launch the course about "Privacy-Preserving Machine Learning" with Ant Group [[Link](https://mp.weixin.qq.com/s/bRArxUSOPhXMzgrYvKH61w?poc_token=HGpRI2ijFv-TLpPwDOCH4lqhNrabIKX1RSonfT6O)]
