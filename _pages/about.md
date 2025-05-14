@@ -94,7 +94,7 @@ Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my 
 - *2021* "Zhong Gong Cup" Sichuan Collegiate Computer Work Competition, **Provincial Special Prize**
 
 
-# 💬 Invited Talks and Activities
+# 💬 Invited Talks
 -  Record and launch the course about "Privacy-Preserving Machine Learning" with Ant Group [[Link](https://mp.weixin.qq.com/s/bRArxUSOPhXMzgrYvKH61w?poc_token=HGpRI2ijFv-TLpPwDOCH4lqhNrabIKX1RSonfT6O)]
 
 # 💻 Internships
