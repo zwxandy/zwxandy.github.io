@@ -25,8 +25,8 @@ Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my 
 
 
 # 📖 Educations
-- *2023.09-2026.06*, M.S. Peking University (PKU)
-- *2019.09-2023.06*, B.S. University of Electronic Science and Technology of China (UESTC)
+- 2023.09-2026.06, M.S. Peking University (PKU)
+- 2019.09-2023.06, B.S. University of Electronic Science and Technology of China (UESTC)
 
 
 # 🔥 News
@@ -69,7 +69,7 @@ Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my 
   **Wenxuan Zeng**, Meng Li, Wenjie Xiong, Tong Tong, Wen-jie Lu, Jin Tan, Runsheng Wang, Ru Huang \
   ICCV 2023, [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zeng_MPCViT_Searching_for_Accurate_and_Efficient_MPC-Friendly_Vision_Transformer_with_ICCV_2023_paper.pdf)]
 - Factual Error Correction via Iterative Constrained Editing \
-  Jiangjie Chen*, Rui Xu*, Wenxuan Zeng, Changzhi Sun†, Lei Li, Yanghua Xiao \
+  Jiangjie Chen*, Rui Xu*, Wenxuan Zeng, Changzhi Sun, Lei Li, Yanghua Xiao \
   AAAI 2023, [[Paper](https://arxiv.org/pdf/2211.12130)]
 - Connecting the Hosts: Street-Level IP Geolocation with Graph Neural Networks \
   Zhiyuan Wang\*, Fan Zhou\*, **Wenxuan Zeng\***, Goce Trajcevski, Chunjing Xiao, Yong Wang, Kai Chen \
@@ -77,21 +77,21 @@ Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my 
 
 
 # 🎖 Honors and Awards
-- *2024*, Third Prize Scholarship at Peking University
-- *2024*, Merit Student Scholarship at Peking University
-- *2023*, Outstanding Graduate Student and Honors Research Certificate at UESTC
-- *2020-2022*, Outstanding Student Scholarship and "Innovation and Entrepreneurship Training Plan" at UESTC
-- *2022*, Special Prize of “Tencent” Scholarship (3 Places at UESTC in Total)
-- *2021*, First Prize of “Shi Qiang” Scholarship (5 Places at UESTC in Total)
+- 2024, Third Prize Scholarship at Peking University
+- 2024, Merit Student Scholarship at Peking University
+- 2023, Outstanding Graduate Student and Honors Research Certificate at UESTC
+- 2020-2022, Outstanding Student Scholarship and "Innovation and Entrepreneurship Training Plan" at UESTC
+- 2022, Special Prize of “Tencent” Scholarship (3 Places at UESTC in Total)
+- 2021, First Prize of “Shi Qiang” Scholarship (5 Places at UESTC in Total)
 
 
 # 🏆 Competition Awards
-- *2024*, Badminton Competition of Institute for Artificial Intelligence at Peking University, **The 2nd Prize**
-- *2023*, Annual Symposium and Tech Day of Institute for Artificial Intelligence at Peking University, **Most Popular Award**
-- *2023*, China Collegiate Computing Contest, **National Special Prize (the 1st Place)**
-- *2022*, "Pan-Pearl River Delta" Collegiate Computer Work Competition, **National Third Prize**
-- *2021*, China Collegiate Computing Contest, **National First Prize (the 1st Place)**
-- *2021*, "Zhong Gong Cup" Sichuan Collegiate Computer Work Competition, **Provincial Special Prize**
+- 2024, Badminton Competition of Institute for Artificial Intelligence at Peking University, **The 2nd Prize**
+- 2023, Annual Symposium and Tech Day of Institute for Artificial Intelligence at Peking University, **Most Popular Award**
+- 2023, China Collegiate Computing Contest, **National Special Prize (the 1st Place)**
+- 2022, "Pan-Pearl River Delta" Collegiate Computer Work Competition, **National Third Prize**
+- 2021, China Collegiate Computing Contest, **National First Prize (the 1st Place)**
+- 2021, "Zhong Gong Cup" Sichuan Collegiate Computer Work Competition, **Provincial Special Prize**
 
 
 # 💬 Invited Talks
@@ -99,10 +99,10 @@ Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my 
 
 # 💻 Internships
 - Currently at the interview stage
-- *2022.6-present*, Institute for Artificial Intelligence, Peking University (supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm))
-- *2022.4-2022.7*, Knowledge Works Research Laboratory, Fudan University (supervised by [Prof. Yanghua Xiao](http://kw.fudan.edu.cn/people/xiaoyanghua/))
-- *2021.6-2022.6*, Sichuan Key Laboratory of Network and Data Security, UESTC (supervised by [Prof. Fan Zhou](https://sise.uestc.edu.cn/info/1035/9375.htm))
-- *2021.8-2022.5*, Communication and Information Security Laboratory, Peking University (supervised by [Prof. Yuesheng Zhu](https://www.ece.pku.edu.cn/en/info/1057/1175.htm))
+- 2022.6-present, Institute for Artificial Intelligence, Peking University (supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm))
+- 2022.4-2022.7, Knowledge Works Research Laboratory, Fudan University (supervised by [Prof. Yanghua Xiao](http://kw.fudan.edu.cn/people/xiaoyanghua/))
+- 2021.6-2022.6, Sichuan Key Laboratory of Network and Data Security, UESTC (supervised by [Prof. Fan Zhou](https://sise.uestc.edu.cn/info/1035/9375.htm))
+- 2021.8-2022.5, Communication and Information Security Laboratory, Peking University (supervised by [Prof. Yuesheng Zhu](https://www.ece.pku.edu.cn/en/info/1057/1175.htm))
 
 # 📚 Academic Services
 - Serving as a reviewer of NeurIPS 2025
@@ -115,4 +115,3 @@ My hobbies include but are not limited to 🎤singing, 🎸guitar, 🏂skiing, �
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Guitar</div><img src='images/guitar.png' alt="sym" width="70%"></div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Skiing</div><img src='images/skiing.jpg' alt="sym" width="180%"></div></div>
-
