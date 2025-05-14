@@ -107,8 +107,10 @@ Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my 
 # 📚 Academic Services
 - Serving as a reviewer of NeurIPS 2025
 
-# 💡 My Life
-I really like 🎤singing, 🎸guitar, 🏂skiing, 🏸badminton, and various novel and interesting things. Welcome to discuss these interests and hobbies with me!
+# 💡 About My Lifestyle
+I am self-motivated at work, but I also seek balance and happiness in my life. "Reading thousands of books and traveling thousands of miles."
+
+My hobbies include but are not limited to 🎤singing, 🎸guitar, 🏂skiing, 🏸badminton, and various novel and interesting things. Feel free to discuss these interests and hobbies with me!
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Guitar</div><img src='images/guitar.png' alt="sym" width="70%"></div></div>
 
