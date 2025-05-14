@@ -18,8 +18,11 @@ main:
   - title: "Competition Awards"
     url: "/#-competition-awards"
 
-  - title: "Invited Talks and Activities"
-    url: "/#-invited-talks-and-activities"
+  - title: "Invited Talks"
+    url: "/#-invited-talks"
 
   - title: "Internships"
     url: "/#-internships"
+  
+  - title: "Lifestyle"
+    url: "/#-lifestyle"
