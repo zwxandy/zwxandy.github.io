@@ -23,6 +23,7 @@ Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my 
 
 **🌟 <ins>Currently, I am actively seeking Ph.D. opportunities for 2026 Fall. If you are interested in me, please contact me! My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1olqLW8GYoEe4OQcmY0q6JCK3jhF7YogQ/view?usp=drive_link)] [[CN](https://drive.google.com/file/d/1xTVt7H-9TvQRSBAIHhugVtbEfy-AGBZS/view?usp=drive_link)]</ins>**
 
+<font color="red">red</font>
 
 # 📖 Educations
 - 2023.09-2026.06, M.S. Peking University (PKU)
