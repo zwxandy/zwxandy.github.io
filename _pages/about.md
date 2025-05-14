@@ -77,21 +77,21 @@ Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my 
 
 
 # 🎖 Honors and Awards
-- *2024* Third Prize Scholarship at Peking University
-- *2024* Merit Student Scholarship at Peking University
-- *2023* Outstanding Graduate Student and Honors Research Certificate at UESTC
-- *2020-2022* Outstanding Student Scholarship and "Innovation and Entrepreneurship Training Plan" at UESTC
-- *2022* Special Prize of “Tencent” Scholarship (3 Places at UESTC in Total)
-- *2021* First Prize of “Shi Qiang” Scholarship (5 Places at UESTC in Total)
+- *2024*, Third Prize Scholarship at Peking University
+- *2024*, Merit Student Scholarship at Peking University
+- *2023*, Outstanding Graduate Student and Honors Research Certificate at UESTC
+- *2020-2022*, Outstanding Student Scholarship and "Innovation and Entrepreneurship Training Plan" at UESTC
+- *2022*, Special Prize of “Tencent” Scholarship (3 Places at UESTC in Total)
+- *2021*, First Prize of “Shi Qiang” Scholarship (5 Places at UESTC in Total)
 
 
 # 🏆 Competition Awards
-- *2024* Badminton Competition of Institute for Artificial Intelligence at Peking University, **The 2nd Prize**
-- *2023* Annual Symposium and Tech Day of Institute for Artificial Intelligence at Peking University, **Most Popular Award**
-- *2023* China Collegiate Computing Contest, **National Special Prize (the 1st Place)**
-- *2022* "Pan-Pearl River Delta" Collegiate Computer Work Competition, **National Third Prize**
-- *2021* China Collegiate Computing Contest, **National First Prize (the 1st Place)**
-- *2021* "Zhong Gong Cup" Sichuan Collegiate Computer Work Competition, **Provincial Special Prize**
+- *2024*, Badminton Competition of Institute for Artificial Intelligence at Peking University, **The 2nd Prize**
+- *2023*, Annual Symposium and Tech Day of Institute for Artificial Intelligence at Peking University, **Most Popular Award**
+- *2023*, China Collegiate Computing Contest, **National Special Prize (the 1st Place)**
+- *2022*, "Pan-Pearl River Delta" Collegiate Computer Work Competition, **National Third Prize**
+- *2021*, China Collegiate Computing Contest, **National First Prize (the 1st Place)**
+- *2021*, "Zhong Gong Cup" Sichuan Collegiate Computer Work Competition, **Provincial Special Prize**
 
 
 # 💬 Invited Talks
