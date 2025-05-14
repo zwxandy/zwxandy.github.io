@@ -29,8 +29,8 @@ Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my 
 
 
 # 🔥 News
-- 🎉 Welcome to my newly updated homepage! I finally change my homepage template today (lazy me 😮‍💨)!
-- 🥺 I also hope there will be some good news in the near future
+- 🎉 2025.5.13, Welcome to my newly updated homepage! I finally change my homepage template today (lazy me 😮‍💨)
+- 🥺 I also hope there will be some good news in the near future 🙏
 
 
 # 📝 Publications 
