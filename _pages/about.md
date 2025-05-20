@@ -76,21 +76,21 @@ Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my 
 
 
 # 🎖 Honors and Awards
-- 2024, Third Prize Scholarship at Peking University
-- 2024, Merit Student Scholarship at Peking University
-- 2023, Outstanding Graduate Student and Honors Research Certificate at UESTC
-- 2020-2022, Outstanding Student Scholarship and "Innovation and Entrepreneurship Training Plan" at UESTC
-- 2022, Special Prize of “Tencent” Scholarship (3 Places at UESTC in Total)
-- 2021, First Prize of “Shi Qiang” Scholarship (5 Places at UESTC in Total)
+- [2024] Third Prize Scholarship at Peking University
+- [2024] Merit Student Scholarship at Peking University
+- [2023] Outstanding Graduate Student and Honors Research Certificate at UESTC
+- [2020,2021,2022] Outstanding Student Scholarship and "Innovation and Entrepreneurship Training Plan" at UESTC
+- [2022] Special Prize of “Tencent” Scholarship (3 Places at UESTC in Total)
+- [2021] First Prize of “Shi Qiang” Scholarship (5 Places at UESTC in Total)
 
 
 # 🏆 Competition Awards
-- 2024, Badminton Competition of Institute for Artificial Intelligence at Peking University, **The 2nd Prize**
-- 2023, Annual Symposium and Tech Day of Institute for Artificial Intelligence at Peking University, **Most Popular Award**
-- 2023, China Collegiate Computing Contest, **National Special Prize (the 1st Place)**
-- 2022, "Pan-Pearl River Delta" Collegiate Computer Work Competition, **National Third Prize**
-- 2021, China Collegiate Computing Contest, **National First Prize (the 1st Place)**
-- 2021, "Zhong Gong Cup" Sichuan Collegiate Computer Work Competition, **Provincial Special Prize**
+- [2024] Badminton Competition of Institute for Artificial Intelligence at Peking University, **The 2nd Prize**
+- [2023] Annual Symposium and Tech Day of Institute for Artificial Intelligence at Peking University, **Most Popular Award**
+- [2023] China Collegiate Computing Contest, **National Special Prize (the 1st Place)**
+- [2022] "Pan-Pearl River Delta" Collegiate Computer Work Competition, **National Third Prize**
+- [2021] China Collegiate Computing Contest, **National First Prize (the 1st Place)**
+- [2021] "Zhong Gong Cup" Sichuan Collegiate Computer Work Competition, **Provincial Special Prize**
 
 
 # 💬 Invited Talks
@@ -98,10 +98,10 @@ Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my 
 
 # 💻 Internships
 - Currently at the interview stage
-- 2022.6-present, Institute for Artificial Intelligence, Peking University (supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm))
-- 2022.4-2022.7, Knowledge Works Research Laboratory, Fudan University (supervised by [Prof. Yanghua Xiao](http://kw.fudan.edu.cn/people/xiaoyanghua/))
-- 2021.6-2022.6, Sichuan Key Laboratory of Network and Data Security, UESTC (supervised by [Prof. Fan Zhou](https://sise.uestc.edu.cn/info/1035/9375.htm))
-- 2021.8-2022.5, Communication and Information Security Laboratory, Peking University (supervised by [Prof. Yuesheng Zhu](https://www.ece.pku.edu.cn/en/info/1057/1175.htm))
+- [2022.6-present] Institute for Artificial Intelligence, Peking University (supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm))
+- [2022.4-2022.7] Knowledge Works Research Laboratory, Fudan University (supervised by [Prof. Yanghua Xiao](http://kw.fudan.edu.cn/people/xiaoyanghua/))
+- [2021.6-2022.6] Sichuan Key Laboratory of Network and Data Security, UESTC (supervised by [Prof. Fan Zhou](https://sise.uestc.edu.cn/info/1035/9375.htm))
+- [2021.8-2022.5] Communication and Information Security Laboratory, Peking University (supervised by [Prof. Yuesheng Zhu](https://www.ece.pku.edu.cn/en/info/1057/1175.htm))
 
 # 📚 Academic Services
 - Serving as a reviewer of NeurIPS 2025
