@@ -23,14 +23,16 @@ Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my 
 
 **🌟 <font color="red">Currently, I am actively seeking Ph.D. opportunities for 2026 Fall. If you are interested in me, please contact me! My EN and CN resumes are available here:</font> [[EN](https://drive.google.com/file/d/1olqLW8GYoEe4OQcmY0q6JCK3jhF7YogQ/view?usp=sharing)] [[CN](https://drive.google.com/file/d/1xTVt7H-9TvQRSBAIHhugVtbEfy-AGBZS/view?usp=sharing)]**
 
+
 # 📖 Educations
 - 2023.09-2026.06, M.S. Peking University (PKU)
 - 2019.09-2023.06, B.S. University of Electronic Science and Technology of China (UESTC)
 
 
 # 🔥 News
-- 🎉 2025.5.13, Welcome to my newly updated homepage! I finally change my homepage template today (lazy me 😮‍💨)
-- 🥺 I also hope there will be some good news in the near future 🙏
+- 🎉 [2025.5.21] Receive my first internship offer from Microsoft!
+- 🎉 [2025.5.13] Welcome to my newly updated homepage! I finally change my homepage template today (lazy me 😮‍💨)
+- 🥺 I also hope there will be some good news in the near future 🙏 Be patient :)
 
 
 # 📝 Publications 
@@ -97,7 +99,7 @@ Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my 
 -  Record and launch the course about "Privacy-Preserving Machine Learning" with Ant Group [[Link](https://mp.weixin.qq.com/s/bRArxUSOPhXMzgrYvKH61w?poc_token=HGpRI2ijFv-TLpPwDOCH4lqhNrabIKX1RSonfT6O)]
 
 # 💻 Internships
-- Currently at the interview stage
+- [2025.5-present] Microsft AI (supervised by [Prof. Mengyu Zhou](https://zmy.io/))
 - [2022.6-present] Institute for Artificial Intelligence, Peking University (supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm))
 - [2022.4-2022.7] Knowledge Works Research Laboratory, Fudan University (supervised by [Prof. Yanghua Xiao](http://kw.fudan.edu.cn/people/xiaoyanghua/))
 - [2021.6-2022.6] Sichuan Key Laboratory of Network and Data Security, UESTC (supervised by [Prof. Fan Zhou](https://sise.uestc.edu.cn/info/1035/9375.htm))
@@ -107,12 +109,12 @@ Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my 
 - Serving as a reviewer of NeurIPS 2025
 
 # 💡 Lifestyle
-I am self-motivated at work, but I also seek balance and happiness in my life. "Reading thousands of books and traveling thousands of miles."
-
-<!-- 很喜欢大冰老师的一句话："愿既可以朝九晚五，又可以浪迹天涯" -->
 "Life is not about waiting for the storm to pass, but about learning to dance in the rain." - Helen Keller
 
-My hobbies include but are not limited to 🎤singing, 🎸guitar, 🏂skiing, 🏸badminton, and various novel and interesting things. Feel free to discuss these interests and hobbies with me!
+- I am self-motivated at work, but I also seek balance and happiness in my life. "Reading thousands of books and traveling thousands of miles."
+<!-- 很喜欢大冰老师的一句话："愿既可以朝九晚五，又可以浪迹天涯" -->
+
+- My hobbies include but are not limited to 🎤singing, 🎸guitar, 🏂skiing, 🏸badminton, and various novel and interesting things. Feel free to discuss these interests and hobbies with me!
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Guitar</div><img src='images/guitar.png' alt="sym" width="70%"></div></div>
 
