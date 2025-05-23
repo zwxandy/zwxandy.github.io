@@ -25,8 +25,8 @@ Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my 
 
 
 # 📖 Educations
-- 2023.09-2026.06, M.S. Peking University (PKU)
-- 2019.09-2023.06, B.S. University of Electronic Science and Technology of China (UESTC)
+- [2023.09-2026.06] M.S. Peking University (PKU)
+- [2019.09-2023.06] B.S. University of Electronic Science and Technology of China (UESTC)
 
 
 # 🔥 News
