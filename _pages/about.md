@@ -70,7 +70,7 @@ Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my 
   **Wenxuan Zeng**, Meng Li, Wenjie Xiong, Tong Tong, Wen-jie Lu, Jin Tan, Runsheng Wang, Ru Huang \
   ICCV 2023, [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zeng_MPCViT_Searching_for_Accurate_and_Efficient_MPC-Friendly_Vision_Transformer_with_ICCV_2023_paper.pdf)]
 - Factual Error Correction via Iterative Constrained Editing \
-  Jiangjie Chen*, Rui Xu*, **Wenxuan Zeng**, Changzhi Sun, Lei Li, Yanghua Xiao \
+  Jiangjie Chen\*, Rui Xu\*, **Wenxuan Zeng**, Changzhi Sun, Lei Li, Yanghua Xiao \
   AAAI 2023, [[Paper](https://arxiv.org/pdf/2211.12130)]
 - Connecting the Hosts: Street-Level IP Geolocation with Graph Neural Networks \
   Zhiyuan Wang\*, Fan Zhou\*, **Wenxuan Zeng\***, Goce Trajcevski, Chunjing Xiao, Yong Wang, Kai Chen \
