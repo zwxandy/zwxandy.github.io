@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wenxuan Zeng (曾文轩)"
-description              : "Institute for AI@PKU, Intern@Microsoft"
+description              : "Institute for AI@PKU Intern@Microsoft"
 repository               : "zwxandy/zwxandy.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : wenxuan-zeng-82851428a
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "wenxuan-zeng-82851428a"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
