@@ -30,7 +30,7 @@ Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my 
 
 
 # 🔥 News
-- 🎉 [2025.5.21] Receive my first internship offer from Microsoft!
+- 🎉 [2025.5.21] Receive my first internship offer from Microsoft AI!
 - 🎉 [2025.5.13] Welcome to my newly updated homepage! I finally change my homepage template today (lazy me 😮‍💨)
 - 🥺 I also hope there will be some good news in the near future 🙏 Be patient :)
 
@@ -95,8 +95,9 @@ Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my 
 - [2021] "Zhong Gong Cup" Sichuan Collegiate Computer Work Competition, **Provincial Special Prize**
 
 
-# 💬 Invited Talks
--  Record and launch the course about "Privacy-Preserving Machine Learning" with Ant Group [[Link](https://mp.weixin.qq.com/s/bRArxUSOPhXMzgrYvKH61w?poc_token=HGpRI2ijFv-TLpPwDOCH4lqhNrabIKX1RSonfT6O)]
+# 💬 Invited Activities
+- [2025.1] Display our NeurIPS poster at West Lake Forum on Cyberspace Security 2024, Zhejing University, Hangzhou
+- [2024.5] Record and launch the course about "Privacy-Preserving Machine Learning" with Ant Group [[Link](https://mp.weixin.qq.com/s/bRArxUSOPhXMzgrYvKH61w?poc_token=HGpRI2ijFv-TLpPwDOCH4lqhNrabIKX1RSonfT6O)]
 
 # 💻 Internships
 - [2025.5-present] Microsft Research Asia (supervised by [Prof. Mengyu Zhou](https://zmy.io/))
