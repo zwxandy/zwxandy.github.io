@@ -100,7 +100,7 @@ Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my 
 - [2024.5] Record and launch the course about "Privacy-Preserving Machine Learning" with Ant Group [[Link](https://mp.weixin.qq.com/s/bRArxUSOPhXMzgrYvKH61w?poc_token=HGpRI2ijFv-TLpPwDOCH4lqhNrabIKX1RSonfT6O)]
 
 # 💻 Internships
-- [2025.5-present] Microsft Research Asia (supervised by [Prof. Mengyu Zhou](https://zmy.io/))
+- [2025.5-present] Microsft Research Asia (supervised by [Dr. Mengyu Zhou](https://zmy.io/))
 - [2022.6-present] Institute for Artificial Intelligence, Peking University (supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm))
 - [2022.4-2022.7] Knowledge Works Research Laboratory, Fudan University (supervised by [Prof. Yanghua Xiao](http://kw.fudan.edu.cn/people/xiaoyanghua/))
 - [2021.6-2022.6] Sichuan Key Laboratory of Network and Data Security, UESTC (supervised by [Prof. Fan Zhou](https://sise.uestc.edu.cn/info/1035/9375.htm))
@@ -110,7 +110,7 @@ Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my 
 - Serving as a reviewer of NeurIPS 2025
 
 # 💡 Lifestyle
-"Life is not about waiting for the storm to pass, but about learning to dance in the rain." - Helen Keller
+- "Life is not about waiting for the storm to pass, but about learning to dance in the rain." - Helen Keller
 
 - I am self-motivated at work, but I also seek balance and happiness in my life. "Reading thousands of books and traveling thousands of miles."
 <!-- 很喜欢大冰老师的一句话："愿既可以朝九晚五，又可以浪迹天涯" -->
