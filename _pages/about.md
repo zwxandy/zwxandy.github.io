@@ -58,7 +58,7 @@ Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my 
   Haicheng Liao, Zhenning Li, Huanming Shen, **Wenxuan Zeng**, Dongping Liao, Guofa Li, Shengbo Eben Li, Chengzhong Xu \
   AAAI 2024, [[Paper](https://arxiv.org/pdf/2312.06371)]
 - EQO: Exploring Ultra-Efficient Private Inference with Winograd-Based Protocol and Quantization Co-Optimization \
-  **Wenxuan Zeng**, Tianshi Xu, Cheng Hong, Meng Li, Runsheng Wang
+  **Wenxuan Zeng**, Tianshi Xu, Cheng Hong, Meng Li, Runsheng Wang \
   Preprint 2024, [[Paper](https://arxiv.org/abs/2404.09404)]
 - Kuaiji: the First Chinese Accounting Large Language Model \
   Jiayuan Luo, Songhua Yang, Xiaoling Qiu, Panyu Chen, Yufei Nai, **Wenxuan Zeng**, Wentao Zhang, Xinke Jiang \
@@ -113,6 +113,7 @@ Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my 
 - "Life is not about waiting for the storm to pass, but about learning to dance in the rain." - Helen Keller
 
 - I am self-motivated at work, but I also seek balance and happiness in my life. "Reading thousands of books and traveling thousands of miles."
+
 <!-- 很喜欢大冰老师的一句话："愿既可以朝九晚五，又可以浪迹天涯" -->
 
 - My hobbies include but are not limited to 🎤singing, 🎸guitar, 🏂skiing, 🏸badminton, and various novel and interesting things like Rubik's Cube. Feel free to discuss these interests and hobbies with me!
