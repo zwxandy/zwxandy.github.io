@@ -38,7 +38,7 @@ Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my 
 
 # 📝 Publications 
 -  Systematic Survey on Full-Stack Privacy-Preserving Machine Learning: From Protocol, Model, and System Perspectives \
-  Wenxuan Zeng\*, Tianshi Xu\*, Yi Chen\*, Yifan Zhou, Jin Tan, Cheng Hong, Meng Li \
+  **Wenxuan Zeng\***, Tianshi Xu\*, Yi Chen\*, Yifan Zhou, Jin Tan, Cheng Hong, Meng Li \
   Work in Progress
 - H<sup>2</sup>EAL: Hybrid-Bonding Architecture with Hybrid Sparse Attention for Efficient Long-Context LLM Inference \
   Zizhuo Fu, Xiaotian Guo, **Wenxuan Zeng**, Shuzhang Zhong, Yadong Zhang, Peiyu Chen, Runsheng Wang, Le Ye, Meng Li \
