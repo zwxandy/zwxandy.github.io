@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year master student at Institute for Artificial Intelligence, Peking University (PKU), supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm). Pior to that, I received the B.S. degree from University of Electronic Science and Technology of China (UESTC) in 2023, supervised by [Prof. Fan Zhou](https://sise.uestc.edu.cn/info/1035/9375.htm). My current research interests primarily focus on the **Efficient AI Algorithm/System, Multimodal LLM, and LLM Reasoning.** From 2022, I have also explored a lot in the field of Privacy-Preserving Machine Learning (PPML), focusing on accelerating the private inference systems via protocol-algorithm co-optimization.
+I am currently a second-year master student at Institute for Artificial Intelligence, Peking University (PKU), supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm). Pior to that, I received the B.S. degree from University of Electronic Science and Technology of China (UESTC) in 2023, supervised by [Prof. Fan Zhou](https://sise.uestc.edu.cn/info/1035/9375.htm). My current research interests primarily focus on the **Efficient AI Algorithm/System, Multimodal LLM, and LLM Reasoning.** From 2022, I have also explored a lot in the field of **Privacy-Preserving Machine Learning (PPML)**, focusing on accelerating the private inference systems via protocol-algorithm co-optimization.
 
-Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my study notes and knowledge summaries about computer science from 2019.
+Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my study notes and knowledge summaries about computer science from 2019 (😄 300+ blogs and 80w+ visits now!).
 
 **🌟 <font color="red">Currently, I am actively seeking Ph.D. opportunities for 2026 Fall. If you are interested in me, please contact me! My EN and CN resumes are available here:</font> [[EN](https://drive.google.com/file/d/1olqLW8GYoEe4OQcmY0q6JCK3jhF7YogQ/view?usp=sharing)] [[CN](https://drive.google.com/file/d/1xTVt7H-9TvQRSBAIHhugVtbEfy-AGBZS/view?usp=sharing)]**
 
@@ -90,9 +90,9 @@ Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my 
 - [2021] First Prize of “Shi Qiang” Scholarship (5 Places at UESTC in Total)
 
 
-# 🏆 Competition Awards
-- [2025] Badminton Competition of Institute for Artificial Intelligence at Peking University, **The 3rd Prize🥉**
-- [2024] Badminton Competition of Institute for Artificial Intelligence at Peking University, **The 2nd Prize🥈**
+# 🏆 Contest Awards
+- [2025] Badminton Competition of Institute for Artificial Intelligence at Peking University, **The 3rd Prize**
+- [2024] Badminton Competition of Institute for Artificial Intelligence at Peking University, **The 2nd Prize**
 - [2023] Annual Symposium and Tech Day of Institute for Artificial Intelligence at Peking University, **Most Popular Award**
 - [2023] China Collegiate Computing Contest, **National Special Prize (the 1st Place)**
 - [2022] "Pan-Pearl River Delta" Collegiate Computer Work Competition, **National Third Prize**
@@ -104,6 +104,7 @@ Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my 
 - [2025.1] Display our NeurIPS poster at West Lake Forum on Cyberspace Security 2024, Zhejing University, Hangzhou
 - [2024.5] Record and launch the course about "Privacy-Preserving Machine Learning" with Ant Group [[Link](https://mp.weixin.qq.com/s/bRArxUSOPhXMzgrYvKH61w?poc_token=HGpRI2ijFv-TLpPwDOCH4lqhNrabIKX1RSonfT6O)]
 
+
 # 💻 Internships
 - [2025.5-present] Microsft Research Asia (supervised by [Dr. Mengyu Zhou](https://zmy.io/))
 - [2022.6-present] Institute for Artificial Intelligence, Peking University (supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm))
@@ -112,7 +113,7 @@ Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my 
 - [2021.8-2022.5] Communication and Information Security Laboratory, Peking University (supervised by [Prof. Yuesheng Zhu](https://www.ece.pku.edu.cn/en/info/1057/1175.htm))
 
 # 📚 Academic Services
-- Serving as a reviewer of NeurIPS 2025
+- Serving as a reviewer of NeurIPS 2025, EMNLP 2025
 
 # 💡 Lifestyle
 - "Life is not about waiting for the storm to pass, but about learning to dance in the rain." - Helen Keller
