@@ -30,12 +30,16 @@ Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my 
 
 
 # 🔥 News
+- 🔥 [2025.6.10] Our team at Peking University ranks among the Top 3 in the world in "On-Device Multi-modal Generative AI for Science Contest at DAC 2025"!
 - 🎉 [2025.5.21] Receive my first internship offer from Microsoft AI!
 - 🎉 [2025.5.13] Welcome to my newly updated homepage! I finally change my homepage template today (lazy me 😮‍💨)
 - 🥺 I also hope there will be some good news in the near future 🙏 Be patient :)
 
 
 # 📝 Publications 
+-  Systematic Survey on Full-Stack Privacy-Preserving Machine Learning: From Protocol, Model, and System Perspectives \
+  Wenxuan Zeng\*, Tianshi Xu\*, Yi Chen\*, Yifan Zhou, Jin Tan, Cheng Hong, Meng Li \
+  Work in Progress
 - H<sup>2</sup>EAL: Hybrid-Bonding Architecture with Hybrid Sparse Attention for Efficient Long-Context LLM Inference \
   Zizhuo Fu, Xiaotian Guo, **Wenxuan Zeng**, Shuzhang Zhong, Yadong Zhang, Peiyu Chen, Runsheng Wang, Le Ye, Meng Li \
   Under Review
