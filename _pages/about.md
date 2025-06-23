@@ -91,7 +91,8 @@ Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my 
 
 
 # 🏆 Competition Awards
-- [2024] Badminton Competition of Institute for Artificial Intelligence at Peking University, **The 2nd Prize**
+- [2025] Badminton Competition of Institute for Artificial Intelligence at Peking University, **The 3rd Prize🥉**
+- [2024] Badminton Competition of Institute for Artificial Intelligence at Peking University, **The 2nd Prize🥈**
 - [2023] Annual Symposium and Tech Day of Institute for Artificial Intelligence at Peking University, **Most Popular Award**
 - [2023] China Collegiate Computing Contest, **National Special Prize (the 1st Place)**
 - [2022] "Pan-Pearl River Delta" Collegiate Computer Work Competition, **National Third Prize**
