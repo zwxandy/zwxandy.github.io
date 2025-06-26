@@ -91,8 +91,8 @@ redirect_from:
 
 
 # 🏆 Contest Awards
-- [2025] Badminton Competition of Institute for Artificial Intelligence at Peking University, **The 3rd Prize**
-- [2024] Badminton Competition of Institute for Artificial Intelligence at Peking University, **The 2nd Prize**
+- [2025] "On-Device Multi-modal Generative AI for Science Contest" at DAC 2025, **Global 1st Place**
+- [2024,2025] Badminton Competition of Institute for Artificial Intelligence at Peking University, **The 2nd, 3rd Prize**
 - [2023] Annual Symposium and Tech Day of Institute for Artificial Intelligence at Peking University, **Most Popular Award**
 - [2023] China Collegiate Computing Contest, **National Special Prize (the 1st Place)**
 - [2022] "Pan-Pearl River Delta" Collegiate Computer Work Competition, **National Third Prize**
