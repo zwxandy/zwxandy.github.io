@@ -42,7 +42,7 @@ redirect_from:
   Work in Progress
 - H<sup>2</sup>EAL: Hybrid-Bonding Architecture with Hybrid Sparse Attention for Efficient Long-Context LLM Inference \
   Zizhuo Fu, Xiaotian Guo, **Wenxuan Zeng**, Shuzhang Zhong, Yadong Zhang, Peiyu Chen, Runsheng Wang, Le Ye, Meng Li \
-  Under Review
+  ICCAD 2025
 - UniCAIM: A Unified CAM/CIM Architecture with Static-Dynamic KV Cache Pruning for Efficient Long-Context LLM Inference \
   Weikai Xu\*, **Wenxuan Zeng\***, Qianqian Huang, Meng Li, Ru Huang \
   DAC 2025, [[Paper](https://arxiv.org/pdf/2504.07479)]
