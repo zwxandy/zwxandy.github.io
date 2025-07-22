@@ -30,6 +30,7 @@ redirect_from:
 
 
 # 🔥 News
+- 🔥 [2025.7.22] We have published our first survey on "Efficient Cross-Level Privacy-Preserving Machine Learning"! Welcome to cite and raise pull requests!
 - 🔥 [2025.6.26] Our team at Peking University won the **Global 1st Place🏅** in "On-Device Multi-modal Generative AI for Science Contest at DAC 2025"!
 - 🎉 [2025.5.21] Receive my first internship offer from Microsoft AI!
 - 🎉 [2025.5.13] Welcome to my newly updated homepage! I finally change my homepage template today (lazy me 😮‍💨)
@@ -37,9 +38,9 @@ redirect_from:
 
 
 # 📝 Publications 
--  A Systematic Survey on Full-Stack Privacy-Preserving Machine Learning: From Protocol, Model, and System Perspectives \
+- Towards Efficient Privacy-Preserving Machine Learning: A Systematic Review from Protocol, Model, and System Perspectives \
   **Wenxuan Zeng\***, Tianshi Xu\*, Yi Chen\*, Yifan Zhou, Mingzhe Zhang, Jin Tan, Cheng Hong, Meng Li \
-  Preprint 2025
+  Preprint 2025, [[Paper](https://arxiv.org/pdf/2507.14519)] [[Repo](https://github.com/PKU-SEC-Lab/Awesome-PPML-Papers)]
 - H<sup>2</sup>EAL: Hybrid-Bonding Architecture with Hybrid Sparse Attention for Efficient Long-Context LLM Inference \
   Zizhuo Fu, Xiaotian Guo, **Wenxuan Zeng**, Shuzhang Zhong, Yadong Zhang, Peiyu Chen, Runsheng Wang, Le Ye, Meng Li \
   ICCAD 2025
