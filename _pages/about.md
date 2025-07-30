@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-😎 Hi, I am currently a second-year master student at Institute for Artificial Intelligence, Peking University (PKU), supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm). Pior to that, I received the B.S. degree from University of Electronic Science and Technology of China (UESTC) in 2023, supervised by [Prof. Fan Zhou](https://sise.uestc.edu.cn/info/1035/9375.htm). My current research interests primarily focus on the **Efficient AI Algorithm/System, Multimodal LLM, and LLM Reasoning.** From 2022, I have also explored a lot in the field of **Privacy-Preserving Machine Learning (PPML)**, focusing on accelerating the private inference systems via protocol-algorithm co-optimization.
+😎 Hi, I am currently a second-year master student at Institute for Artificial Intelligence, Peking University (PKU), supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm). Pior to that, I received the B.S. degree from University of Electronic Science and Technology of China (UESTC) in 2023, supervised by [Prof. Fan Zhou](https://sise.uestc.edu.cn/info/1035/9375.htm). My current research interests primarily focus on the **Efficient AI Algorithm & System, Multimodal LLM, and LLM Reasoning.** From 2022, I have also explored a lot in the field of **Privacy-Preserving Machine Learning (PPML)**, focusing on accelerating the private inference systems via protocol-algorithm co-optimization.
 
 📝 Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my study notes and knowledge summaries about computer science from 2019 (😄 300+ blogs and 80w+ visits now!).
 
@@ -32,10 +32,11 @@ redirect_from:
 # 🔥 News
 - 🎉 [2025.7.30] I am happy to be invited as a Program Committee in AAAI 2026!
 - 🔥 [2025.7.22] We have published our first survey on "Efficient Cross-Level Privacy-Preserving Machine Learning"! Welcome to cite and raise pull requests!
-- 🔥 [2025.6.26] Our team at Peking University won the **Global 1st Place🏅** in "On-Device Multi-modal Generative AI for Science Contest at DAC 2025"!
+- 🔥 [2025.6.26] Our team at Peking University won the **Global 1st Place🏅** in DAC System Design Contest!
 - 🎉 [2025.5.21] Receive my first internship offer from Microsoft AI!
 - 🎉 [2025.5.13] Welcome to my newly updated homepage! I finally change my homepage template today (lazy me 😮‍💨)
-- 🥺 I also hope there will be some good news in the near future 🙏 Be patient :)
+- 🎉 [2025.4.13] I am happy to be invited as a reviewer in NeurIPS 2025!
+- 🥺 I hope there will be some good news in the near future 🙏 **Move on and be patient :)**
 
 
 # 📝 Publications 
@@ -93,7 +94,7 @@ redirect_from:
 
 
 # 🏆 Contest Awards
-- [2025] "On-Device Multi-modal Generative AI for Science Contest" at DAC 2025, **Global 1st Place**
+- [2025] DAC system design on "On-Device Multi-modal Generative AI for Science", **Global 1st Place**
 - [2024,2025] Badminton Competition of Institute for Artificial Intelligence at Peking University, **The 2nd, 3rd Prize**
 - [2023] Annual Symposium and Tech Day of Institute for Artificial Intelligence at Peking University, **Most Popular Award**
 - [2023] China Collegiate Computing Contest, **National Special Prize (the 1st Place)**
