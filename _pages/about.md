@@ -30,6 +30,7 @@ redirect_from:
 
 
 # 🔥 News
+- 🎉 [2025.7.30] I am happy to be invited as a Program Committee in AAAI 2026!
 - 🔥 [2025.7.22] We have published our first survey on "Efficient Cross-Level Privacy-Preserving Machine Learning"! Welcome to cite and raise pull requests!
 - 🔥 [2025.6.26] Our team at Peking University won the **Global 1st Place🏅** in "On-Device Multi-modal Generative AI for Science Contest at DAC 2025"!
 - 🎉 [2025.5.21] Receive my first internship offer from Microsoft AI!
@@ -114,7 +115,7 @@ redirect_from:
 - [2021.8-2022.5] Communication and Information Security Laboratory, Peking University (supervised by [Prof. Yuesheng Zhu](https://www.ece.pku.edu.cn/en/info/1057/1175.htm))
 
 # 📚 Academic Services
-- Serving as a reviewer of NeurIPS 2025, EMNLP 2025
+- Serving as a reviewer of NeurIPS 2025, EMNLP 2025, AAAI 2026
 
 # 💡 Lifestyle
 - "Life is not about waiting for the storm to pass, but about learning to dance in the rain." - Helen Keller
