@@ -31,7 +31,7 @@ redirect_from:
 
 # 🔥 News
 - 🎉 [2025.7.30] I am happy to be invited as a Program Committee in AAAI 2026!
-- 🔥 [2025.7.22] We have published our first survey on "Efficient Cross-Level Privacy-Preserving Machine Learning"! Welcome to cite and raise pull requests!
+- 🔥 [2025.7.22] We have published our first survey on "Efficient Cross-Level Privacy-Preserving Machine Learning"! Welcome to cite and raise pull requests! Click [here](https://mp.weixin.qq.com/s/V0gn0BonQVuC4vz2oQ7knw) to see the report by SyncedTech.
 - 🔥 [2025.6.26] Our team at Peking University won the **Global 1st Place🏅** in DAC System Design Contest!
 - 🎉 [2025.5.21] Receive my first internship offer from Microsoft AI!
 - 🎉 [2025.5.13] Welcome to my newly updated homepage! I finally change my homepage template today (lazy me 😮‍💨)
@@ -42,7 +42,7 @@ redirect_from:
 # 📝 Publications 
 - Towards Efficient Privacy-Preserving Machine Learning: A Systematic Review from Protocol, Model, and System Perspectives \
   **Wenxuan Zeng\***, Tianshi Xu\*, Yi Chen\*, Yifan Zhou, Mingzhe Zhang, Jin Tan, Cheng Hong, Meng Li \
-  Preprint 2025, [[Paper](https://arxiv.org/pdf/2507.14519)] [[Repo](https://github.com/PKU-SEC-Lab/Awesome-PPML-Papers)]
+  Preprint 2025, [[Paper](https://arxiv.org/pdf/2507.14519)] [[Repo](https://github.com/PKU-SEC-Lab/Awesome-PPML-Papers)] [[Publicity](https://mp.weixin.qq.com/s/V0gn0BonQVuC4vz2oQ7knw)]
 - H<sup>2</sup>EAL: Hybrid-Bonding Architecture with Hybrid Sparse Attention for Efficient Long-Context LLM Inference \
   Zizhuo Fu, Xiaotian Guo, **Wenxuan Zeng**, Shuzhang Zhong, Yadong Zhang, Peiyu Chen, Runsheng Wang, Le Ye, Meng Li \
   ICCAD 2025
