@@ -42,7 +42,7 @@ redirect_from:
 # 📝 Publications 
 - Towards Efficient Privacy-Preserving Machine Learning: A Systematic Review from Protocol, Model, and System Perspectives \
   **Wenxuan Zeng\***, Tianshi Xu\*, Yi Chen\*, Yifan Zhou, Mingzhe Zhang, Jin Tan, Cheng Hong, Meng Li \
-  Preprint 2025, [[Paper](https://arxiv.org/pdf/2507.14519)] [[Repo](https://github.com/PKU-SEC-Lab/Awesome-PPML-Papers)] [[Publicity](https://mp.weixin.qq.com/s/V0gn0BonQVuC4vz2oQ7knw)]
+  ACM Computing Survey (CSUR) Submission, [[Paper](https://arxiv.org/pdf/2507.14519)] [[Repo](https://github.com/PKU-SEC-Lab/Awesome-PPML-Papers)] [[Publicity](https://mp.weixin.qq.com/s/V0gn0BonQVuC4vz2oQ7knw)]
 - H<sup>2</sup>EAL: Hybrid-Bonding Architecture with Hybrid Sparse Attention for Efficient Long-Context LLM Inference \
   Zizhuo Fu, Xiaotian Guo, **Wenxuan Zeng**, Shuzhang Zhong, Yadong Zhang, Peiyu Chen, Runsheng Wang, Le Ye, Meng Li \
   ICCAD 2025
@@ -51,7 +51,7 @@ redirect_from:
   DAC 2025, [[Paper](https://arxiv.org/pdf/2504.07479)]
 - OptiPrime: Efficient Private Inference at ImageNet Scale \
   Jiangrui Yu, Ye Yu, Si Chen, **Wenxuan Zeng**, Junfeng Fan, Runsheng Wang, Ru Huang, Meng Li \
-  Work in Progress
+  ASPLOS 2025 Submission
 - MPCache: MPC-Friendly KV Cache Eviction for Efficient Private Large Language Model Inference \
   **Wenxuan Zeng**, Ye Dong, Jinjin Zhou, Junming Ma, Jin Tan, Runsheng Wang, Meng Li \
   Preprint 2025, [[Paper](arxiv.org/abs/2501.06807)]
