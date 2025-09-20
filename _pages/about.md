@@ -30,6 +30,7 @@ redirect_from:
 
 
 # 🔥 News
+- 🎉 [2025.9.18] Our paper MPCache is accepted by NeurIPS 2025!
 - 🎉 [2025.7.30] I am happy to be invited as a Program Committee in AAAI 2026!
 - 🔥 [2025.7.22] We have published our first survey on "Efficient Cross-Level Privacy-Preserving Machine Learning"! Welcome to cite and raise pull requests! Click [here](https://mp.weixin.qq.com/s/V0gn0BonQVuC4vz2oQ7knw) to see the report by SyncedTech.
 - 🔥 [2025.6.26] Our team at Peking University won the **Global 1st Place🏅** in DAC System Design Contest!
@@ -40,6 +41,9 @@ redirect_from:
 
 
 # 📝 Publications 
+- MPCache: MPC-Friendly KV Cache Eviction for Efficient Private Large Language Model Inference \
+  **Wenxuan Zeng**, Ye Dong, Jinjin Zhou, Junming Ma, Jin Tan, Runsheng Wang, Meng Li \
+  NeurIPS 2025, [[Paper](arxiv.org/abs/2501.06807)]
 - Towards Efficient Privacy-Preserving Machine Learning: A Systematic Review from Protocol, Model, and System Perspectives \
   **Wenxuan Zeng\***, Tianshi Xu\*, Yi Chen\*, Yifan Zhou, Mingzhe Zhang, Jin Tan, Cheng Hong, Meng Li \
   ACM Computing Survey (CSUR) Submission, [[Paper](https://arxiv.org/pdf/2507.14519)] [[Repo](https://github.com/PKU-SEC-Lab/Awesome-PPML-Papers)] [[Publicity](https://mp.weixin.qq.com/s/V0gn0BonQVuC4vz2oQ7knw)]
@@ -52,9 +56,6 @@ redirect_from:
 - OptiPrime: Efficient Private Inference at ImageNet Scale \
   Jiangrui Yu, Ye Yu, Si Chen, **Wenxuan Zeng**, Junfeng Fan, Runsheng Wang, Ru Huang, Meng Li \
   ASPLOS 2025 Submission
-- MPCache: MPC-Friendly KV Cache Eviction for Efficient Private Large Language Model Inference \
-  **Wenxuan Zeng**, Ye Dong, Jinjin Zhou, Junming Ma, Jin Tan, Runsheng Wang, Meng Li \
-  Preprint 2025, [[Paper](arxiv.org/abs/2501.06807)]
 - FlexHE: A Flexible Kernel Generation Framework for Homomorphic Encryption-Based Private Inference \
   Jiangrui Yu, **Wenxuan Zeng**, Tianshi Xu, Renze Chen, Yun (Eric) Liang, Runsheng Wang, Ru Huang, Meng Li \
   ICCAD 2024, [[Paper](https://dl.acm.org/doi/10.1145/3676536.3676739)]
