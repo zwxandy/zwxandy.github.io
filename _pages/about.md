@@ -23,7 +23,7 @@ redirect_from:
 
 <!-- **🌟 <font color="red">Currently, I am actively seeking Ph.D. opportunities for 2026 Fall. If you are interested in me, please contact me! -->
 
-My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1olqLW8GYoEe4OQcmY0q6JCK3jhF7YogQ/view?usp=sharing)] [[CN](https://drive.google.com/file/d/1xTVt7H-9TvQRSBAIHhugVtbEfy-AGBZS/view?usp=sharing)]** 😊 Kind tips: resumes may be outdated this time, but this homepage shows the latest information.
+My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1olqLW8GYoEe4OQcmY0q6JCK3jhF7YogQ/view?usp=sharing)] [[CN](https://drive.google.com/file/d/1xTVt7H-9TvQRSBAIHhugVtbEfy-AGBZS/view?usp=sharing)] 😊 Kind tips: resumes may be outdated this time, but this homepage shows the latest information.
 
 
 # 📖 Educations
@@ -43,7 +43,7 @@ My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1
 
 
 # 📝 Publications 
-- MPCache: MPC-Friendly KV Cache Eviction for Efficient Private Large Language Model Inference \
+- MPCache: MPC-Friendly KV Cache Eviction for Efficient Private LLM Inference \
   **Wenxuan Zeng**, Ye Dong, Jinjin Zhou, Junming Ma, Jin Tan, Runsheng Wang, Meng Li \
   NeurIPS 2025, [[Paper](arxiv.org/abs/2501.06807)]
 - Towards Efficient Privacy-Preserving Machine Learning: A Systematic Review from Protocol, Model, and System Perspectives \
@@ -92,8 +92,8 @@ My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1
 - [2024] Merit Student Scholarship at Peking University
 - [2023] Outstanding Graduate Student and Honors Research Certificate at UESTC
 - [2020,2021,2022] Outstanding Student Scholarship and "Innovation and Entrepreneurship Training Plan" at UESTC
-- [2022] Special Prize of “Tencent” Scholarship (3 Places at UESTC in Total)
-- [2021] First Prize of “Shi Qiang” Scholarship (5 Places at UESTC in Total)
+- [2022] Special Prize of "Tencent" Scholarship (3 Places at UESTC in Total)
+- [2021] First Prize of "Shi Qiang" Scholarship (5 Places at UESTC in Total)
 
 
 # 🏆 Contest Awards
