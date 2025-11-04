@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-😎 Hi, I am currently a second-year master student at Institute for Artificial Intelligence, Peking University (PKU), supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm). Pior to that, I received the B.S. degree from University of Electronic Science and Technology of China (UESTC) in 2023, supervised by [Prof. Fan Zhou](https://sise.uestc.edu.cn/info/1035/9375.htm). My current research interests primarily focus on the **Efficient AI Algorithm & System, Agentic LLM, Multimodal LLM, and Reasoning.** From 2022, I have also explored a lot in the field of **Privacy-Preserving Machine Learning (PPML)**, focusing on accelerating the private inference systems via protocol-algorithm co-optimization.
+😎 Hi, I am currently a third-year master student at Institute for Artificial Intelligence, Peking University (PKU), supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm). Pior to that, I received the B.S. degree from University of Electronic Science and Technology of China (UESTC) in 2023, supervised by [Prof. Fan Zhou](https://sise.uestc.edu.cn/info/1035/9375.htm). My current research interests primarily focus on the **Efficient AI Algorithm & System, Agentic AI, Multimodal LLM, and LLM Reasoning.** From 2022, I have also explored a lot in the field of **Privacy-Preserving Machine Learning (PPML)**, focusing on accelerating the private inference systems via protocol-algorithm co-optimization.
 
-📝 Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my study notes and knowledge summaries about computer science from 2019 (😄 300+ blogs and 80w+ visits now!).
+📝 Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my study notes and knowledge summaries about computer science from 2019 (😄 300+ blogs and 85w+ visits now!).
 
 <!-- **🌟 <font color="red">Currently, I am actively seeking Ph.D. opportunities for 2026 Fall. If you are interested in me, please contact me! -->
 
-My EN and CN resumes are available here:</font> [[EN](https://drive.google.com/file/d/1olqLW8GYoEe4OQcmY0q6JCK3jhF7YogQ/view?usp=sharing)] [[CN](https://drive.google.com/file/d/1xTVt7H-9TvQRSBAIHhugVtbEfy-AGBZS/view?usp=sharing)]** 😊 Kind tips: resumes may be outdated this time, but this homepage shows the latest information.
+My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1olqLW8GYoEe4OQcmY0q6JCK3jhF7YogQ/view?usp=sharing)] [[CN](https://drive.google.com/file/d/1xTVt7H-9TvQRSBAIHhugVtbEfy-AGBZS/view?usp=sharing)]** 😊 Kind tips: resumes may be outdated this time, but this homepage shows the latest information.
 
 
 # 📖 Educations
@@ -119,7 +119,7 @@ My EN and CN resumes are available here:</font> [[EN](https://drive.google.com/f
 - [2021.8-2022.5] Communication and Information Security Laboratory, Peking University (supervised by [Prof. Yuesheng Zhu](https://www.ece.pku.edu.cn/en/info/1057/1175.htm))
 
 # 📚 Academic Services
-- Serving as a reviewer of NeurIPS 2025, EMNLP 2025, AAAI 2026
+- Serving as a reviewer of NeurIPS 2025, EMNLP 2025, AAAI 2026, CVPR 2026
 
 # 💡 Lifestyle
 - "Life is not about waiting for the storm to pass, but about learning to dance in the rain." - Helen Keller
