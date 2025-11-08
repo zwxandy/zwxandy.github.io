@@ -130,9 +130,9 @@ My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1
 
 - I am self-motivated at work, but I also seek balance and happiness in my life. "Reading thousands of books and traveling thousands of miles."
 
-- 一直很喜欢大冰老师的一句话："愿既可以朝九晚五，又可以浪迹天涯"（当然在互联网行业/大模型时代，这个不现实了👀）
+- 一直很喜欢大冰老师的一句话："愿既可以朝九晚五，又可以浪迹天涯"（当然在互联网行业/大模型时代，下班时间不现实了👀）
 
-- My hobbies include but are not limited to 🎤singing, 🎸guitar, 🏂skiing, 🏸badminton, and various novel and interesting things like Rubik's Cube. Feel free to discuss these interests and hobbies with me!
+- My hobbies include but are not limited to 🎤singing, 🎸guitar, 🏂skiing, 🏸badminton, and various novel and interesting things like Rubik's Cube. Feel free to discuss these interests and hobbies with me!（简单来说，就是我的爱好乱七八糟的都有，保持好奇心和求知欲）
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Guitar</div><img src='images/guitar.png' alt="sym" width="70%"></div></div>
 
