@@ -45,8 +45,8 @@ My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1
 
 # 📝 Publications
 - Jupiter: Enhancing LLM Data Analysis Capabilities via Notebook and Inference-Time Value-Guided Search \
-  Shuocheng Li, Yihao Liu, Silin Du, **Wenxuan Zeng**, Zhe Xu, Mengyu Zhou, Yeye He, Haoyu Dong, Shi Han, Dongmei Zhang
-  AAAI 2026 [[Paper](https://arxiv.org/pdf/2509.09245)]
+  Shuocheng Li, Yihao Liu, Silin Du, **Wenxuan Zeng**, Zhe Xu, Mengyu Zhou, Yeye He, Haoyu Dong, Shi Han, Dongmei Zhang \
+  AAAI 2026, [[Paper](https://arxiv.org/pdf/2509.09245)]
 - MPCache: MPC-Friendly KV Cache Eviction for Efficient Private LLM Inference \
   **Wenxuan Zeng**, Ye Dong, Jinjin Zhou, Junming Ma, Jin Tan, Runsheng Wang, Meng Li \
   NeurIPS 2025, [[Paper](arxiv.org/abs/2501.06807)]
