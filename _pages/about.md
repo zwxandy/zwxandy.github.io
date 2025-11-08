@@ -32,6 +32,7 @@ My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1
 
 
 # 🔥 News
+- 🎉 [2025.11.8] Our paper Jupiter is accepted by AAAI 2026!
 - 🎉 [2025.9.18] Our paper MPCache is accepted by NeurIPS 2025!
 - 🎉 [2025.7.30] I am happy to be invited as a Program Committee in AAAI 2026!
 - 🔥 [2025.7.22] We have published our first survey on "Efficient Cross-Level Privacy-Preserving Machine Learning"! Welcome to cite and raise pull requests! Click [here](https://mp.weixin.qq.com/s/V0gn0BonQVuC4vz2oQ7knw) to see the report by SyncedTech.
@@ -42,7 +43,10 @@ My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1
 - 🥺 I hope there will be some good news in the near future 🙏 **Move on and be patient :)**
 
 
-# 📝 Publications 
+# 📝 Publications
+- Jupiter: Enhancing LLM Data Analysis Capabilities via Notebook and Inference-Time Value-Guided Search \
+  Shuocheng Li, Yihao Liu, Silin Du, **Wenxuan Zeng**, Zhe Xu, Mengyu Zhou, Yeye He, Haoyu Dong, Shi Han, Dongmei Zhang
+  AAAI 2026 [[Paper](https://arxiv.org/pdf/2509.09245)]
 - MPCache: MPC-Friendly KV Cache Eviction for Efficient Private LLM Inference \
   **Wenxuan Zeng**, Ye Dong, Jinjin Zhou, Junming Ma, Jin Tan, Runsheng Wang, Meng Li \
   NeurIPS 2025, [[Paper](arxiv.org/abs/2501.06807)]
