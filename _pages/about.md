@@ -116,7 +116,7 @@ My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1
 
 
 # 💻 Internships
-- [2025.5-present] Microsft Research Asia (supervised by [Dr. Mengyu Zhou](https://zmy.io/))
+- [2025.5-2025.9] Microsft Research Asia (supervised by [Dr. Mengyu Zhou](https://zmy.io/))
 - [2022.6-present] Institute for Artificial Intelligence, Peking University (supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm))
 - [2022.4-2022.7] Knowledge Works Research Laboratory, Fudan University (supervised by [Prof. Yanghua Xiao](http://kw.fudan.edu.cn/people/xiaoyanghua/))
 - [2021.6-2022.6] Sichuan Key Laboratory of Network and Data Security, UESTC (supervised by [Prof. Fan Zhou](https://sise.uestc.edu.cn/info/1035/9375.htm))
@@ -130,7 +130,7 @@ My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1
 
 - I am self-motivated at work, but I also seek balance and happiness in my life. "Reading thousands of books and traveling thousands of miles."
 
-<!-- 很喜欢大冰老师的一句话："愿既可以朝九晚五，又可以浪迹天涯" -->
+- 一直很喜欢大冰老师的一句话："愿既可以朝九晚五，又可以浪迹天涯"（当然在互联网行业/大模型时代，这个不现实了👀）
 
 - My hobbies include but are not limited to 🎤singing, 🎸guitar, 🏂skiing, 🏸badminton, and various novel and interesting things like Rubik's Cube. Feel free to discuss these interests and hobbies with me!
 
