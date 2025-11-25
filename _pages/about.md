@@ -32,6 +32,7 @@ My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1
 
 
 # 🔥 News
+- 🎉 [2025.11.25] I am honered to be invited as a reviewer in TPAMI (Journal)!
 - 🎉 [2025.11.8] Our paper Jupiter is accepted by AAAI 2026!
 - 🎉 [2025.9.18] Our paper MPCache is accepted by NeurIPS 2025!
 - 🎉 [2025.7.30] I am happy to be invited as a Program Committee in AAAI 2026!
@@ -123,7 +124,7 @@ My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1
 - [2021.8-2022.5] Communication and Information Security Laboratory, Peking University (supervised by [Prof. Yuesheng Zhu](https://www.ece.pku.edu.cn/en/info/1057/1175.htm))
 
 # 📚 Academic Services
-- Serving as a reviewer of NeurIPS 2025, EMNLP 2025, AAAI 2026, CVPR 2026
+- Serving as a reviewer of NeurIPS 2025, EMNLP 2025, AAAI 2026, CVPR 2026, TPAMI (Journal)
 
 # 💡 Lifestyle
 - "Life is not about waiting for the storm to pass, but about learning to dance in the rain." - Helen Keller
