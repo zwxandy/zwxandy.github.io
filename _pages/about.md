@@ -48,6 +48,9 @@ My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1
 - Jupiter: Enhancing LLM Data Analysis Capabilities via Notebook and Inference-Time Value-Guided Search \
   Shuocheng Li, Yihao Liu, Silin Du, **Wenxuan Zeng**, Zhe Xu, Mengyu Zhou, Yeye He, Haoyu Dong, Shi Han, Dongmei Zhang \
   AAAI 2026, [[Paper](https://arxiv.org/pdf/2509.09245)]
+- Attention is Not Always Needed: Attention Sink Forges a Native MoE in Attention Layers \
+  Zizhuo Fu, **Wenxuan Zeng,** Runsheng Wang, Meng Li \
+  Work in Progress
 - MPCache: MPC-Friendly KV Cache Eviction for Efficient Private LLM Inference \
   **Wenxuan Zeng**, Ye Dong, Jinjin Zhou, Junming Ma, Jin Tan, Runsheng Wang, Meng Li \
   NeurIPS 2025, [[Paper](arxiv.org/abs/2501.06807)]
@@ -62,7 +65,7 @@ My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1
   DAC 2025, [[Paper](https://arxiv.org/pdf/2504.07479)]
 - OptiPrime: Efficient Private Inference at ImageNet Scale \
   Jiangrui Yu, Ye Yu, Si Chen, **Wenxuan Zeng**, Junfeng Fan, Runsheng Wang, Ru Huang, Meng Li \
-  ASPLOS 2025 Submission
+  Work in Progress
 - FlexHE: A Flexible Kernel Generation Framework for Homomorphic Encryption-Based Private Inference \
   Jiangrui Yu, **Wenxuan Zeng**, Tianshi Xu, Renze Chen, Yun (Eric) Liang, Runsheng Wang, Ru Huang, Meng Li \
   ICCAD 2024, [[Paper](https://dl.acm.org/doi/10.1145/3676536.3676739)]
