@@ -45,36 +45,36 @@ My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1
 
 
 # 📝 Publications
+- Attention Sink Forges Native MoE in Attention Layers: Sink-Aware Training to Address Head Collapse \
+  Zizhuo Fu, **Wenxuan Zeng,** Runsheng Wang, Meng Li \
+  Under Review
 - Jupiter: Enhancing LLM Data Analysis Capabilities via Notebook and Inference-Time Value-Guided Search \
   Shuocheng Li, Yihao Liu, Silin Du, **Wenxuan Zeng**, Zhe Xu, Mengyu Zhou, Yeye He, Haoyu Dong, Shi Han, Dongmei Zhang \
-  AAAI 2026, [[Paper](https://arxiv.org/pdf/2509.09245)]
-- Attention is Not Always Needed: Attention Sink Forges a Native MoE in Attention Layers \
-  Zizhuo Fu, **Wenxuan Zeng,** Runsheng Wang, Meng Li \
-  Work in Progress
+  AAAI 2026, CCF-A, [[Paper](https://arxiv.org/pdf/2509.09245)]
 - MPCache: MPC-Friendly KV Cache Eviction for Efficient Private LLM Inference \
   **Wenxuan Zeng**, Ye Dong, Jinjin Zhou, Junming Ma, Jin Tan, Runsheng Wang, Meng Li \
-  NeurIPS 2025, [[Paper](arxiv.org/abs/2501.06807)]
+  NeurIPS 2025, CCF-A, [[Paper](https://arxiv.org/abs/2501.06807)]
 - Towards Efficient Privacy-Preserving Machine Learning: A Systematic Review from Protocol, Model, and System Perspectives \
   **Wenxuan Zeng\***, Tianshi Xu\*, Yi Chen\*, Yifan Zhou, Mingzhe Zhang, Jin Tan, Cheng Hong, Meng Li \
   ACM Computing Survey (CSUR) Submission, [[Paper](https://arxiv.org/pdf/2507.14519)] [[Repo](https://github.com/PKU-SEC-Lab/Awesome-PPML-Papers)] [[Publicity](https://mp.weixin.qq.com/s/V0gn0BonQVuC4vz2oQ7knw)]
 - H<sup>2</sup>EAL: Hybrid-Bonding Architecture with Hybrid Sparse Attention for Efficient Long-Context LLM Inference \
   Zizhuo Fu, Xiaotian Guo, **Wenxuan Zeng**, Shuzhang Zhong, Yadong Zhang, Peiyu Chen, Runsheng Wang, Le Ye, Meng Li \
-  ICCAD 2025
+  ICCAD 2025, CCF-B, [[Paper](https://arxiv.org/pdf/2508.16653)]
 - UniCAIM: A Unified CAM/CIM Architecture with Static-Dynamic KV Cache Pruning for Efficient Long-Context LLM Inference \
   Weikai Xu\*, **Wenxuan Zeng\***, Qianqian Huang, Meng Li, Ru Huang \
-  DAC 2025, [[Paper](https://arxiv.org/pdf/2504.07479)]
-- OptiPrime: Efficient Private Inference at ImageNet Scale \
+  DAC 2025, CCF-A, [[Paper](https://arxiv.org/pdf/2504.07479)]
+- OptiPrime: Optimizing Private Inference Through Protocol-Hardware Co-Design \
   Jiangrui Yu, Ye Yu, Si Chen, **Wenxuan Zeng**, Junfeng Fan, Runsheng Wang, Ru Huang, Meng Li \
-  Work in Progress
+  Under Review
 - FlexHE: A Flexible Kernel Generation Framework for Homomorphic Encryption-Based Private Inference \
   Jiangrui Yu, **Wenxuan Zeng**, Tianshi Xu, Renze Chen, Yun (Eric) Liang, Runsheng Wang, Ru Huang, Meng Li \
-  ICCAD 2024, [[Paper](https://dl.acm.org/doi/10.1145/3676536.3676739)]
+  ICCAD 2024, CCF-B, [[Paper](https://dl.acm.org/doi/10.1145/3676536.3676739)]
 - PrivQuant: Communication-Efficient Private Inference with Quantized Network/Protocol Co-Optimization \
   Tianshi Xu, Shuzhang Zhong, **Wenxuan Zeng**, Meng Li, Runsheng Wang, Ru Huang \
-  ICCAD 2024, [[Paper](https://eprint.iacr.org/2024/2021.pdf)]
+  ICCAD 2024, CCF-B, [[Paper](https://eprint.iacr.org/2024/2021.pdf)]
 - BAT: Behavior-Aware Human-Like Trajectory Prediction for Autonomous Driving \
   Haicheng Liao, Zhenning Li, Huanming Shen, **Wenxuan Zeng**, Dongping Liao, Guofa Li, Shengbo Eben Li, Chengzhong Xu \
-  AAAI 2024, [[Paper](https://arxiv.org/pdf/2312.06371)]
+  AAAI 2024, CCF-A, [[Paper](https://arxiv.org/pdf/2312.06371)]
 - EQO: Exploring Ultra-Efficient Private Inference with Winograd-Based Protocol and Quantization Co-Optimization \
   **Wenxuan Zeng**, Tianshi Xu, Cheng Hong, Meng Li, Runsheng Wang \
   Preprint 2024, [[Paper](https://arxiv.org/abs/2404.09404)]
@@ -83,16 +83,16 @@ My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1
   Preprint 2024, [[Paper](https://arxiv.org/abs/2402.13866)]
 - CoPriv: Network/Protocol Co-Optimization for Communication-Efficient Private Inference \
   **Wenxuan Zeng**, Meng Li, Haichuan Yang, Wen-jie Lu, Runsheng Wang, Ru Huang \
-  NeurIPS 2023, [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/f96839fc751b67492e17e70f5c9730e4-Paper-Conference.pdf)]
+  NeurIPS 2023, CCF-A, [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/f96839fc751b67492e17e70f5c9730e4-Paper-Conference.pdf)]
 - MPCViT: Searching for Accurate and Efficient MPC-friendly Vision Transformer with Heterogeneous Attention \
   **Wenxuan Zeng**, Meng Li, Wenjie Xiong, Tong Tong, Wen-jie Lu, Jin Tan, Runsheng Wang, Ru Huang \
-  ICCV 2023, [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zeng_MPCViT_Searching_for_Accurate_and_Efficient_MPC-Friendly_Vision_Transformer_with_ICCV_2023_paper.pdf)]
+  ICCV 2023, CCF-A, [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zeng_MPCViT_Searching_for_Accurate_and_Efficient_MPC-Friendly_Vision_Transformer_with_ICCV_2023_paper.pdf)]
 - Factual Error Correction via Iterative Constrained Editing \
   Jiangjie Chen\*, Rui Xu\*, **Wenxuan Zeng**, Changzhi Sun, Lei Li, Yanghua Xiao \
-  AAAI 2023, [[Paper](https://arxiv.org/pdf/2211.12130)]
+  AAAI 2023, CCF-A, [[Paper](https://arxiv.org/pdf/2211.12130)]
 - Connecting the Hosts: Street-Level IP Geolocation with Graph Neural Networks \
   Zhiyuan Wang\*, Fan Zhou\*, **Wenxuan Zeng\***, Goce Trajcevski, Chunjing Xiao, Yong Wang, Kai Chen \
-  KDD 2022, [[Paper](https://cse.hkust.edu.hk/~kaichen/papers/ipgeo-kdd22.pdf)]
+  KDD 2022, CCF-A, [[Paper](https://cse.hkust.edu.hk/~kaichen/papers/ipgeo-kdd22.pdf)]
 
 
 # 🎖 Honors and Awards
