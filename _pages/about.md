@@ -47,7 +47,7 @@ My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1
 # 📝 Publications
 - Attention Sink Forges Native MoE in Attention Layers: Sink-Aware Training to Address Head Collapse \
   Zizhuo Fu, **Wenxuan Zeng,** Runsheng Wang, Meng Li \
-  Under Review
+  Under Review [[Paper](https://arxiv.org/pdf/2602.01203)]
 - Jupiter: Enhancing LLM Data Analysis Capabilities via Notebook and Inference-Time Value-Guided Search \
   Shuocheng Li, Yihao Liu, Silin Du, **Wenxuan Zeng**, Zhe Xu, Mengyu Zhou, Yeye He, Haoyu Dong, Shi Han, Dongmei Zhang \
   AAAI 2026, CCF-A, [[Paper](https://arxiv.org/pdf/2509.09245)]
