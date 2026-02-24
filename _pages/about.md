@@ -45,6 +45,9 @@ My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1
 
 
 # 📝 Publications
+- UFO: Unlocking Ultra-Efficient Quantized Private Inference with Protocol and Algorithm Co-Optimization \
+  **Wenxuan Zeng**, Chao Yang, Tianshi Xu, Bo Zhang, Changrui Ren, Jin Dong, Meng Li \
+  Preprint 2026, [[Paper](https://arxiv.org/pdf/2602.18758)]
 - Jupiter: Enhancing LLM Data Analysis Capabilities via Notebook and Inference-Time Value-Guided Search \
   Shuocheng Li, Yihao Liu, Silin Du, **Wenxuan Zeng**, Zhe Xu, Mengyu Zhou, Yeye He, Haoyu Dong, Shi Han, Dongmei Zhang \
   AAAI 2026, CCF-A, [[Paper](https://arxiv.org/pdf/2509.09245)]
@@ -75,9 +78,6 @@ My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1
 - BAT: Behavior-Aware Human-Like Trajectory Prediction for Autonomous Driving \
   Haicheng Liao, Zhenning Li, Huanming Shen, **Wenxuan Zeng**, Dongping Liao, Guofa Li, Shengbo Eben Li, Chengzhong Xu \
   AAAI 2024, CCF-A, [[Paper](https://arxiv.org/pdf/2312.06371)]
-- EQO: Exploring Ultra-Efficient Private Inference with Winograd-Based Protocol and Quantization Co-Optimization \
-  **Wenxuan Zeng**, Tianshi Xu, Cheng Hong, Meng Li, Runsheng Wang \
-  Preprint 2024, [[Paper](https://arxiv.org/abs/2404.09404)]
 - Kuaiji: the First Chinese Accounting Large Language Model \
   Jiayuan Luo, Songhua Yang, Xiaoling Qiu, Panyu Chen, Yufei Nai, **Wenxuan Zeng**, Wentao Zhang, Xinke Jiang \
   Preprint 2024, [[Paper](https://arxiv.org/abs/2402.13866)]
