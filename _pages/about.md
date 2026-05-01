@@ -21,11 +21,11 @@ redirect_from:
 My current research interests primarily focus on the **Efficient AI, Agentic AI, Multimodal LLM, and Reasoning.** From 2022 to 2025, I have also explored a lot in the field of **Privacy-Preserving Machine Learning (PPML)**, focusing on accelerating the private inference systems via protocol-algorithm co-optimization.
 I have Industry experience at Microsoft Research Asia (MSRA) and Zhipu (Z.ai) AutoGLM. At MSRA, I explore Excel spreadsheet intelligence with agentic code generation and built the next-generation Excel copilot; At AutoGLM, I explore computer-use agent (CUA) and co-develope AutoClaw (小龙虾).
 
-📝 Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my study notes and knowledge summaries about computer science from 2019 (😄 300+ blogs and 85w+ visits now!).
+📝 Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my study notes and knowledge summaries about computer science from 2019 (😄 300+ blogs and 90w+ visits now!).
 
 <!-- **🌟 <font color="red">Currently, I am actively seeking Ph.D. opportunities for 2026 Fall. If you are interested in me, please contact me! -->
 
-My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1olqLW8GYoEe4OQcmY0q6JCK3jhF7YogQ/view?usp=sharing)] [[CN](https://drive.google.com/file/d/1xTVt7H-9TvQRSBAIHhugVtbEfy-AGBZS/view?usp=sharing)] 😊 Kind tips: resumes may be outdated this time, but this homepage shows the latest information.
+<!--My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1olqLW8GYoEe4OQcmY0q6JCK3jhF7YogQ/view?usp=sharing)] [[CN](https://drive.google.com/file/d/1xTVt7H-9TvQRSBAIHhugVtbEfy-AGBZS/view?usp=sharing)] 😊 Kind tips: resumes may be outdated this time, but this homepage shows the latest information.-->
 
 
 # 📖 Educations
