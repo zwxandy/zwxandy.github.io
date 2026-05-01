@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-😎 Hi, I am currently a third-year master student at Institute for Artificial Intelligence, Peking University (PKU), supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm). Pior to that, I received the B.S. degree from University of Electronic Science and Technology of China (UESTC) in 2023, supervised by [Prof. Fan Zhou](https://sise.uestc.edu.cn/info/1035/9375.htm). My current research interests primarily focus on the **Efficient AI, Agentic AI, Multimodal LLM, and LLM Reasoning.** From 2022, I have also explored a lot in the field of **Privacy-Preserving Machine Learning (PPML)**, focusing on accelerating the private inference systems via protocol-algorithm co-optimization.
+😎 Hi, I am currently a third-year master student at Institute for Artificial Intelligence, Peking University (PKU), supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm). Pior to that, I received the B.S. degree from University of Electronic Science and Technology of China (UESTC) in 2023, supervised by [Prof. Fan Zhou](https://sise.uestc.edu.cn/info/1035/9375.htm). 
+My current research interests primarily focus on the **Efficient AI, Agentic AI, Multimodal LLM, and Reasoning.** From 2022 to 2025, I have also explored a lot in the field of **Privacy-Preserving Machine Learning (PPML)**, focusing on accelerating the private inference systems via protocol-algorithm co-optimization.
+I have Industry experience at Microsoft Research Asia (MSRA) and Zhipu (Z.ai) AutoGLM. At MSRA, I explore Excel spreadsheet intelligence with agentic code generation and built the next-generation Excel copilot; At AutoGLM, I explore computer-use agent (CUA) and co-develope AutoClaw (小龙虾).
 
 📝 Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my study notes and knowledge summaries about computer science from 2019 (😄 300+ blogs and 85w+ visits now!).
 
@@ -32,6 +34,7 @@ My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1
 
 
 # 🔥 News
+- 🎉 [2026.5.1] Our paper is accepted by ICML 2026!
 - 🎉 [2025.11.25] I am honered to be invited as a reviewer in TPAMI (Journal)!
 - 🎉 [2025.11.8] Our paper Jupiter is accepted by AAAI 2026!
 - 🎉 [2025.9.18] Our paper MPCache is accepted by NeurIPS 2025!
@@ -53,7 +56,7 @@ My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1
   AAAI 2026, CCF-A, [[Paper](https://arxiv.org/pdf/2509.09245)]
 - Attention Sink Forges Native MoE in Attention Layers: Sink-Aware Training to Address Head Collapse \
   Zizhuo Fu, **Wenxuan Zeng,** Runsheng Wang, Meng Li \
-  Under Review, [[Paper](https://arxiv.org/pdf/2602.01203)]
+  ICML 2026, CCF-A, [[Paper](https://arxiv.org/pdf/2602.01203)]
 - MPCache: MPC-Friendly KV Cache Eviction for Efficient Private LLM Inference \
   **Wenxuan Zeng**, Ye Dong, Jinjin Zhou, Junming Ma, Jin Tan, Runsheng Wang, Meng Li \
   NeurIPS 2025, CCF-A, [[Paper](https://arxiv.org/abs/2501.06807)]
@@ -121,7 +124,7 @@ My EN and CN resumes are available here: [[EN](https://drive.google.com/file/d/1
 
 # 💻 Internships
 - [2026.3-present] Zhipu (Z.ai) AutoGLM (supervised by [Xiao Liu](https://scholar.google.com/citations?user=VKI8EhUAAAAJ&hl=zh-CN))
-- [2025.5-2025.9] Microsft Research Asia (supervised by [Mengyu Zhou](https://zmy.io/))
+- [2025.5-2025.9] Microsft Research Asia (MSRA) (supervised by [Mengyu Zhou](https://zmy.io/))
 - [2022.6-2026.5] Institute for Artificial Intelligence, Peking University (supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm))
 - [2022.4-2022.7] Knowledge Works Research Laboratory, Fudan University (supervised by [Prof. Yanghua Xiao](http://kw.fudan.edu.cn/people/xiaoyanghua/))
 - [2021.6-2022.6] Sichuan Key Laboratory of Network and Data Security, UESTC (supervised by [Prof. Fan Zhou](https://sise.uestc.edu.cn/info/1035/9375.htm))
