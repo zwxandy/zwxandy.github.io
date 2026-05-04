@@ -21,7 +21,8 @@ redirect_from:
 
 My current research interests primarily focus on the **Efficient AI, Agentic AI, Multimodal LLM, and Reasoning.** From 2022 to 2025, I have also explored a lot in the field of **Privacy-Preserving Machine Learning (PPML)**, focusing on accelerating the private inference systems via protocol-algorithm co-optimization.
 
-I have Industry experience at Microsoft Research Asia (MSRA) and Zhipu (Z.ai) AutoGLM. At MSRA, I explore Excel spreadsheet intelligence with agentic code generation and built the next-generation Excel copilot; At AutoGLM, I explore computer-use agent (CUA) and co-develope [AutoClaw](https://autoglm.zhipuai.cn/autoclaw/) (小龙虾).
+I have Industry experience at [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia-zh-cn/) and [Zhipu AI (Z.ai)](https://www.zhipuai.cn/zh).
+At MSRA, I explored Excel spreadsheet intelligence with agentic code generation and built the next-generation agentic Excel copilot; At Zhipu, I explored computer-use agent (CUA) and co-developed [AutoClaw](https://autoglm.zhipuai.cn/autoclaw/) (澳洲小龙虾) with strong ability to autonomously operate your devices.
 
 📝 Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my study notes and knowledge summaries about computer science from 2019 (😄 300+ blogs and 90w+ visits now!).
 
@@ -140,7 +141,7 @@ I have Industry experience at Microsoft Research Asia (MSRA) and Zhipu (Z.ai) Au
 
 - I am self-motivated at work, but I also seek balance and happiness in my life. "Reading thousands of books and traveling thousands of miles."
 
-- 一直很喜欢大冰老师的一句话："愿既可以朝九晚五，又可以浪迹天涯"（当然在互联网行业和大模型时代，下班时间不现实了👀）
+- 一直很喜欢大冰老师的一句话："愿既可以朝九晚五，又可以浪迹天涯"
 
 - My hobbies include but are not limited to 🎤singing, 🎸guitar, 🏂skiing, 🏸badminton, and various novel and interesting things like Rubik's Cube. Feel free to discuss these interests and hobbies with me!（简单来说，就是我的爱好乱七八糟的都有，保持好奇心和求知欲）
 
