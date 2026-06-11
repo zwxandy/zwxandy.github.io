@@ -128,7 +128,7 @@ I will join [Tencent](https://www.tencent.com/)🐧 in the summer of 2026.
 
 # 💻 Work Experience
 **Full-time Work**
-- [2026.7-] Tecent WeChat Group (WXG)🐧
+- [2026.7-] Tencent WeChat Group (WXG)🐧
   
 **Internships**
 - [2026.3-2026.6] Zhipu (Z.ai) AutoGLM (supervised by [Xiao Liu](https://scholar.google.com/citations?user=VKI8EhUAAAAJ&hl=zh-CN))
