@@ -125,8 +125,11 @@ At MSRA, I explored **Excel spreadsheet intelligence** with agentic code generat
 - [2024.5] Record and launch the course about "Privacy-Preserving Machine Learning" with Ant Group [[Link](https://mp.weixin.qq.com/s/bRArxUSOPhXMzgrYvKH61w?poc_token=HGpRI2ijFv-TLpPwDOCH4lqhNrabIKX1RSonfT6O)]
 
 
-# 💻 Internships
-- [2026.3-present] Zhipu (Z.ai) AutoGLM (supervised by [Xiao Liu](https://scholar.google.com/citations?user=VKI8EhUAAAAJ&hl=zh-CN))
+# 💻 Work Experience
+**Full-time Work**
+- [2026.7-] Tecent WeChat Group (WXG) 🐧
+**Internships**
+- [2026.3-2026.6] Zhipu (Z.ai) AutoGLM (supervised by [Xiao Liu](https://scholar.google.com/citations?user=VKI8EhUAAAAJ&hl=zh-CN))
 - [2025.5-2025.9] Microsft Research Asia (MSRA) (supervised by [Mengyu Zhou](https://zmy.io/))
 - [2022.6-2026.5] Institute for Artificial Intelligence, Peking University (supervised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm))
 - [2022.4-2022.7] Knowledge Works Research Laboratory, Fudan University (supervised by [Prof. Yanghua Xiao](http://kw.fudan.edu.cn/people/xiaoyanghua/))
