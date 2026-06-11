@@ -21,8 +21,9 @@ redirect_from:
 
 My current research interests primarily focus on the **Efficient AI, Agentic AI, Multimodal LLM, and Reasoning.** From 2022 to 2025, I have also explored a lot in the field of **Privacy-Preserving Machine Learning (PPML)**, focusing on accelerating the private inference systems via protocol-algorithm co-optimization.
 
-I have Industry experience at [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia-zh-cn/) and [Zhipu AI (Z.ai)](https://www.zhipuai.cn/zh).
-At MSRA, I explored **Excel spreadsheet intelligence** with agentic code generation and co-built the next-generation [agentic Excel copilot](https://github.com/microsoft/SheetBrain); At Zhipu, I explored **computer-use agent (CUA)** and co-developed [AutoClaw](https://autoglm.zhipuai.cn/autoclaw/) (澳洲小龙虾) with strong multimodal GUI ability to autonomously operate your devices.
+I have industry (internship) experience at [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia-zh-cn/) and [Zhipu AI (Z.ai)](https://www.zhipuai.cn/zh).
+At MSRA, I explored **Excel spreadsheet intelligence** with agentic code generation and co-built the next-generation [agentic Excel copilot](https://github.com/microsoft/SheetBrain); At Zhipu, I explored **computer-use agent (CUA)** and co-developed [AutoClaw](https://autoglm.zhipuai.cn/autoclaw/) (澳洲小龙虾)🦞 with strong multimodal GUI ability to autonomously operate your devices.
+I will join [Tencent](https://www.tencent.com/)🐧 in the summer of 2026.
 
 📝 Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my study notes and knowledge summaries about computer science from 2019 (😄 300+ blogs and 90w+ visits now!).
 
@@ -127,7 +128,7 @@ At MSRA, I explored **Excel spreadsheet intelligence** with agentic code generat
 
 # 💻 Work Experience
 **Full-time Work**
-- [2026.7-] Tecent WeChat Group (WXG) 🐧
+- [2026.7-] Tecent WeChat Group (WXG)🐧
 **Internships**
 - [2026.3-2026.6] Zhipu (Z.ai) AutoGLM (supervised by [Xiao Liu](https://scholar.google.com/citations?user=VKI8EhUAAAAJ&hl=zh-CN))
 - [2025.5-2025.9] Microsft Research Asia (MSRA) (supervised by [Mengyu Zhou](https://zmy.io/))
