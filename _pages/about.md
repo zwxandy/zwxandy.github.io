@@ -23,7 +23,7 @@ My current research interests primarily focus on the **Efficient AI, Agentic AI,
 
 I have industry (internship) experience at [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia-zh-cn/) and [Zhipu AI (Z.ai)](https://www.zhipuai.cn/zh).
 At MSRA, I explored **Excel spreadsheet intelligence** with agentic code generation and co-built the next-generation [agentic Excel copilot](https://github.com/microsoft/SheetBrain); At Zhipu, I explored **computer-use agent (CUA)** and co-developed [AutoClaw](https://autoglm.zhipuai.cn/autoclaw/) (澳洲小龙虾)🦞 with strong multimodal GUI ability to autonomously operate your devices.
-I will join [Tencent](https://www.tencent.com/)🐧 in the summer of 2026.
+I join [Tencent](https://www.tencent.com/)🐧 in the summer of 2026.
 
 📝 Welcome to my [blog](https://xuanland.blog.csdn.net), where I keep recording my study notes and knowledge summaries about computer science from 2019 (😄 300+ blogs and 90w+ visits now!).
 
@@ -48,7 +48,7 @@ I will join [Tencent](https://www.tencent.com/)🐧 in the summer of 2026.
 - 🎉 [2025.5.21] Receive my first internship offer from Microsoft AI!
 - 🎉 [2025.5.13] Welcome to my newly updated homepage! I finally change my homepage template today (lazy me 😮‍💨)
 - 🎉 [2025.4.13] I am happy to be invited as a reviewer in NeurIPS 2025!
-- 🥺 I hope there will be some good news in the near future 🙏 **Move on and be patient :)**f
+- 🥺 I hope there will be some good news in the near future 🙏 **Move on and be patient :)**
 
 
 # 📝 Publications
@@ -139,7 +139,7 @@ I will join [Tencent](https://www.tencent.com/)🐧 in the summer of 2026.
 - [2021.8-2022.5] Communication and Information Security Laboratory, Peking University (supervised by [Prof. Yuesheng Zhu](https://www.ece.pku.edu.cn/en/info/1057/1175.htm))
 
 # 📚 Academic Services
-- Serving as a reviewer of NeurIPS 2025, EMNLP 2025, AAAI 2026, CVPR 2026, ICME 2026, TPAMI (Journal)
+- Serving as a reviewer of NeurIPS 2025, EMNLP 2025, AAAI 2026, CVPR 2026, ICME 2026, TPAMI (Journal), CSUR (Journal)
 
 # 💡 Lifestyle
 - "Life is not about waiting for the storm to pass, but about learning to dance in the rain." - Helen Keller
